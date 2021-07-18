@@ -7,7 +7,6 @@ Windows 11 Setup - Bypass TPM 2.0 Check &amp; SecureBoot Check &amp; RAM Check.
 
 Screenshots
 ----
-![Screenshot](https://raw.githubusercontent.com/haithamaouati/BypassTPMCheck-SecureBoot/main/screenshot.PNG?raw=true "Optional Title")
 
 Hardware Requirements
 ----
