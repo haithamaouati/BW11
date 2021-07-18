@@ -1,2 +1,35 @@
 # BypassTPMCheck-SecureBoot
 Windows 11 Setup - Bypass TPM 2.0 Check &amp; SecureBoot Check &amp; RAM Check.
+
+Author: Haitham Aouati
+Social: [**@haithamaouati**](https://www.facebook.com/haithamaouati1/)
+
+Hardware Requirements
+----
+* Number of Cores: 2
+* Processor Frequency: 1000Mhz
+* System Memory: 3960 MB
+    
+Bypass
+----
+1. Burn Windows 11 iso file on USB drive.
+2. Copy bypass file "BypassTPMCheck&SecureBoot.reg” to USB drive.
+3. Open the command prompt by pressing Shift + F10 when this message "This PC can't run Windows 11" appears.
+4. Open the Windows Notepad by typing "notepad" in cmd.
+5. Click on the “Open” option from the “File” menu.
+6. Go to the USB drive using the files explorer of the notepad.
+7. Select "All Files" as the file type to show all files in USB drive.
+8. Right-click on the "BypassTPMCheck&SecureBoot.reg" file and click on the "Merge" option, then click "Yes" and then "OK".
+9. Done.
+
+Gist
+----
+[https://gist.github.com/haithamaouati/6d8d7b30e66efb02b6fd0c41e8a271e8](https://gist.github.com/haithamaouati/6d8d7b30e66efb02b6fd0c41e8a271e8)
+
+Environments
+----
+* Windows 11
+
+Disclaimer
+----
+> We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
