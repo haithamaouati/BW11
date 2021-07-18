@@ -1,6 +1,6 @@
 # BypassTPMCheck-SecureBoot
 
-![GitHub repository](https://img.shields.io/badge/haithamaouati-BypassTPMCheck-SecureBoot-blue?style=flat-square&logo=github)
+![GitHub repository](https://img.shields.io/badge/haithamaouati-BypassTPMCheckSecureBoot-blue?style=flat-square&logo=github)
 ![GitHub version](https://img.shields.io/badge/version-1.0-yellow?style=flat-square)
 
 Windows 11 Setup - Bypass TPM 2.0 Check &amp; SecureBoot Check &amp; RAM Check.
