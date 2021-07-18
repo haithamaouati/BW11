@@ -1,9 +1,6 @@
 # BypassTPMCheck-SecureBoot
 Windows 11 Setup - Bypass TPM 2.0 Check &amp; SecureBoot Check &amp; RAM Check.
 
-Author: Haitham Aouati
-Social: [**@haithamaouati**](https://www.facebook.com/haithamaouati1/)
-
 Hardware Requirements
 ----
 * Number of Cores: 2
