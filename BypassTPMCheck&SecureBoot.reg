@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+;; # Windows 11 Setup - Bypass TPM 2.0 & SecureBoot
+;; # Author: Haitham Aouati
+;; # Social: @haithamaouati
+;; #
+;; # Hardware Requirements:
+;; # Number of Cores: 2
+;; # Processor Frequency: 1000Mhz
+;; # System Memory: 3960 MB
+
+[HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig]
+"BypassTPMCheck"=dword:00000001
+"BypassSecureBootCheck"=dword:00000001
+"BypassRAMCheck"=dword:00000001
