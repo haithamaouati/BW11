@@ -16,6 +16,12 @@ echo.
 echo  Author: Haitham Aouati
 echo  Social: @haithamaouati
 echo.
+echo Hardware Requirements
+echo.
+echo  Number of Cores: 2
+echo  Processor Frequency: 1000Mhz
+echo  System Memory: 3960 MB
+echo.
 pause
 ::Bypass TPM 2.0 Check & SecureBoot Check & RAM Check
 reg add HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig /v BypassTPMCheck /t REG_DWORD /d 00000001
