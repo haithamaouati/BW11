@@ -14,7 +14,13 @@ Hardware Requirements
 * Number of Cores: 2
 * Processor Frequency: 1000Mhz
 * System Memory: 3960 MB
-    
+
+Bypass
+----
+- [x] TPM 2.0
+- [x] SecureBoot
+- [x] RAM
+
 Bypass Method 1
 ----
 1. Burn Windows 11 iso file on USB drive.
