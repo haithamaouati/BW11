@@ -1,9 +1,9 @@
-# BypassTPMCheck-SecureBoot
+# BypassWin11
 
 ![GitHub repository](https://img.shields.io/badge/haithamaouati-BypassTPMCheckSecureBoot-blue?style=flat-square&logo=github)
 ![GitHub version](https://img.shields.io/badge/version-1.0-yellow?style=flat-square)
 
-[Windows 11](https://www.microsoft.com/en-us/windows/windows-11) Setup - Bypass TPM 2.0 Check &amp; SecureBoot Check &amp; RAM Check.
+Bypass [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) System Requirements
 
 Screenshots
 ----
@@ -14,9 +14,7 @@ Screenshots
 - [System Requirements](#system-requirements)
 - [Bypass](#bypass)
 - [Method 1](#method-1)
-- [Method 1](#method-1)
-- [Gist](#gist)
-- [Environments](#environments)
+- [Method 2](#method-2)
 - [Disclaimer](#disclaimer)
 - [Author](#author)
 - [License](#license)
@@ -36,11 +34,19 @@ Internet connection|Microsoft account and internet connectivity required for set
 
 Certain features require specific hardware, see detailed [system requirements](https://www.microsoft.com/en-us/windows/windows-11-specifications).
 
+Check for compatibility
+Use the [PC Health Check](https://www.microsoft.com/en-us/windows/windows-11#pchealthcheck) app to see if your current PC meets the requirements to run Windows 11. If so, you can get a free upgrade when it rolls out.
+
+**COMING SOON**
+
 ## Bypass
 
-- [x] TPM 2.0
-- [x] SecureBoot
-- [x] RAM
+- [x] Bypass CPU Check
+- [x] Bypass Storage Check
+- [x] Bypass RAM Check
+- [x] Bypass TPM Check
+- [x] Bypass SecureBoot Check
+- [x] Allow Upgrade With Unsupportred TMP or CPU
 
 ## Method 1
 
@@ -65,14 +71,6 @@ Certain features require specific hardware, see detailed [system requirements](h
 7. Select "All Files" as the file type to show all files in USB drive.
 8. Right-click on the "BypassTPMCheck&SecureBoot.bat" file and click on the "Open" or "Rus as administrator" option, then press "Enter".
 9. Done.
-
-## Gist
-
-[https://gist.github.com/haithamaouati/6d8d7b30e66efb02b6fd0c41e8a271e8](https://gist.github.com/haithamaouati/6d8d7b30e66efb02b6fd0c41e8a271e8)
-
-## Environments
-
-* Windows 11
 
 ## Disclaimer
 
