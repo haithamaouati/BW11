@@ -58,7 +58,8 @@ Use the [PC Health Check](https://www.microsoft.com/en-us/windows/windows-11#pch
 6. Go to the USB drive using the files explorer of the notepad.
 7. Select "All Files" as the file type to show all files in USB drive.
 8. Right-click on the "BypassTPMCheck&SecureBoot.reg" file and click on the "Merge" option, then click "Yes" and then "OK".
-9. Done.
+9. Go back to previous back and then go to the next page to proceed.
+The "Unsupported" screen should no longer appear and you can continue the installation.
 
 ## Method 2
 
@@ -70,7 +71,8 @@ Use the [PC Health Check](https://www.microsoft.com/en-us/windows/windows-11#pch
 6. Go to the USB drive using the files explorer of the notepad.
 7. Select "All Files" as the file type to show all files in USB drive.
 8. Right-click on the "BypassTPMCheck&SecureBoot.bat" file and click on the "Open" or "Rus as administrator" option, then press "Enter".
-9. Done.
+9. Go back to previous back and then go to the next page to proceed.
+The "Unsupported" screen should no longer appear and you can continue the installation.
 
 ## Disclaimer
 
