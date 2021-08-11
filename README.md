@@ -5,9 +5,8 @@
 
 Bypass [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) System Requirements
 
-Screenshots
-----
-![Screenshot](https://github.com/haithamaouati/BypassWin11/blob/main/screenshot.PNG?raw=true "Optional Title")
+## Screenshots
+
 
 ## Table of Contents
 
