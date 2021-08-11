@@ -11,7 +11,7 @@ Screenshots
 
 ## Table of Contents
 
-- [Hardware Requirements](#hardware-requirements)
+- [System Requirements](#system-requirements)
 - [Bypass](#bypass)
 - [Method 1](#method-1)
 - [Method 1](#method-1)
@@ -23,12 +23,8 @@ Screenshots
 
 ## System Requirements
 
-* Number of Cores: 2
-* Processor Frequency: 1000Mhz
-* System Memory: 3960 MB
-
 Hardware|System Requirements
-----|----|----
+----|----
 Processor|1 gigahertz (GHz) or faster with 2 or more cores on a compatible 64-bit processor or System on a Chip (SoC)
 RAM|4 gigabyte (GB)
 Storage|64 GB or larger storage device
