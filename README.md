@@ -1,6 +1,6 @@
 # BypassWin11
 
-![GitHub repository](https://img.shields.io/badge/haithamaouati-BypassTPMCheckSecureBoot-blue?style=flat-square&logo=github)
+![GitHub repository](https://img.shields.io/badge/haithamaouati-BypassWin11-blue?style=flat-square&logo=github)
 ![GitHub version](https://img.shields.io/badge/version-1.1-yellow?style=flat-square)
 
 Bypass [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) System Requirements
