@@ -7,7 +7,7 @@ Bypass [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) System R
 
 Screenshots
 ----
-![Screenshot](https://raw.githubusercontent.com/haithamaouati/BypassTPMCheck-SecureBoot/main/screenshot.PNG?raw=true "Optional Title")
+![Screenshot](https://github.com/haithamaouati/BypassWin11/blob/main/screenshot.PNG?raw=true "Optional Title")
 
 ## Table of Contents
 
@@ -57,7 +57,7 @@ Use the [PC Health Check](https://www.microsoft.com/en-us/windows/windows-11#pch
 5. Click on the “Open” option from the “File” menu.
 6. Go to the USB drive using the files explorer of the notepad.
 7. Select "All Files" as the file type to show all files in USB drive.
-8. Right-click on the "BypassTPMCheck&SecureBoot.reg" file and click on the "Merge" option, then click "Yes" and then "OK".
+8. Right-click on the "BypassWin11.reg" file and click on the "Merge" option, then click "Yes" and then "OK".
 9. Go back to previous back and then go to the next page to proceed.<br>
 The "Unsupported" screen should no longer appear and you can continue the installation.
 
@@ -70,13 +70,13 @@ The "Unsupported" screen should no longer appear and you can continue the instal
 5. Click on the “Open” option from the “File” menu.
 6. Go to the USB drive using the files explorer of the notepad.
 7. Select "All Files" as the file type to show all files in USB drive.
-8. Right-click on the "BypassTPMCheck&SecureBoot.bat" file and click on the "Open" or "Rus as administrator" option, then press "Enter".
+8. Right-click on the "BypassWin11.bat" file and click on the "Open" or "Rus as administrator" option, then press "Enter".
 9. Go back to previous back and then go to the next page to proceed.<br>
 The "Unsupported" screen should no longer appear and you can continue the installation.
 
 ## Disclaimer
 
-> We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
+> :warning: We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
 
 ## Author
 
