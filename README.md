@@ -1,7 +1,7 @@
 # BypassWin11
 
 ![GitHub repository](https://img.shields.io/badge/haithamaouati-BypassTPMCheckSecureBoot-blue?style=flat-square&logo=github)
-![GitHub version](https://img.shields.io/badge/version-1.0-yellow?style=flat-square)
+![GitHub version](https://img.shields.io/badge/version-1.1-yellow?style=flat-square)
 
 Bypass [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) System Requirements
 
@@ -46,7 +46,7 @@ Use the [PC Health Check](https://www.microsoft.com/en-us/windows/windows-11#pch
 - [x] Bypass RAM Check
 - [x] Bypass TPM Check
 - [x] Bypass SecureBoot Check
-- [x] Allow Upgrade With Unsupportred TMP or CPU
+- [x] Allow Upgrade With Unsupportred TPM or CPU
 
 ## Method 1
 
