@@ -13,19 +13,29 @@ Screenshots
 
 - [Hardware Requirements](#hardware-requirements)
 - [Bypass](#bypass)
-- [Method One](#method-one)
-- [Method Two](#method-two)
+- [Method 1](#method-1)
+- [Method 1](#method-1)
 - [Gist](#gist)
 - [Environments](#environments)
 - [Disclaimer](#disclaimer)
 - [Author](#author)
 - [License](#license)
 
-## Hardware Requirements
+## System Requirements
 
 * Number of Cores: 2
 * Processor Frequency: 1000Mhz
 * System Memory: 3960 MB
+
+Hardware|System Requirements
+----|----|----
+Processor|1 gigahertz (GHz) or faster with 2 or more cores on a compatible 64-bit processor or System on a Chip (SoC)
+RAM|4 gigabyte (GB)
+Storage|64 GB or larger storage device
+System firmware:|UEFI, Secure Boot capable
+TPM:|Trusted Platform Module (TPM) version 2.0
+Graphics card:|Compatible with DirectX 12 or later with WDDM 2.0 driver
+Display:|High definition (720p) display that is greater than 9” diagonally, 8 bits per color channel
 
 ## Bypass
 
@@ -33,7 +43,7 @@ Screenshots
 - [x] SecureBoot
 - [x] RAM
 
-## Method One
+## Method 1
 
 1. Burn Windows 11 iso file on USB drive.
 2. Copy bypass file "BypassTPMCheck&SecureBoot.reg” to USB drive.
@@ -45,7 +55,7 @@ Screenshots
 8. Right-click on the "BypassTPMCheck&SecureBoot.reg" file and click on the "Merge" option, then click "Yes" and then "OK".
 9. Done.
 
-## Method Two
+## Method 2
 
 1. Burn Windows 11 iso file on USB drive.
 2. Copy bypass file "BypassTPMCheck&SecureBoot.bat” to USB drive.
