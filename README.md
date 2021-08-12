@@ -50,9 +50,9 @@ Use the [PC Health Check](https://www.microsoft.com/en-us/windows/windows-11#pch
 
 ## Method 1
 
-1. Burn Windows 11 iso file on USB drive.
-2. Copy bypass file "BypassTPMCheck&SecureBoot.reg” to USB drive.
-3. Open the command prompt by pressing Shift + F10 when this message "This PC can't run Windows 11" appears.
+1. Burn Windows 11 iso file on USB drive using [Rufus](https://rufus.ie/en/).
+2. Copy bypass file "BypassWin11.reg” to USB drive.
+3. Open the command prompt by pressing `Shift + F10` when this message "This PC can't run Windows 11" appears.
 4. Open the Windows Notepad by typing "notepad" in cmd.
 5. Click on the “Open” option from the “File” menu.
 6. Go to the USB drive using the files explorer of the notepad.
@@ -63,9 +63,9 @@ Use the [PC Health Check](https://www.microsoft.com/en-us/windows/windows-11#pch
 
 ## Method 2
 
-1. Burn Windows 11 iso file on USB drive.
-2. Copy bypass file "BypassTPMCheck&SecureBoot.bat” to USB drive.
-3. Open the command prompt by pressing Shift + F10 when this message "This PC can't run Windows 11" appears.
+1. Burn Windows 11 iso file on USB drive using [Rufus](https://rufus.ie/en/).
+2. Copy bypass file "BypassWin11.bat” to USB drive.
+3. Open the command prompt by pressing `Shift + F10` when this message "This PC can't run Windows 11" appears.
 4. Open the Windows Notepad by typing "notepad" in cmd.
 5. Click on the “Open” option from the “File” menu.
 6. Go to the USB drive using the files explorer of the notepad.
