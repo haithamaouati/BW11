@@ -22,7 +22,7 @@ echo  [*] Bypass Storage Check
 echo  [*] Bypass RAM Check
 echo  [*] Bypass TPM Check
 echo  [*] Bypass SecureBoot Check
-echo  [*] Allow Upgrade With Unsupportred TPM or CPU
+echo  [*] Allow Upgrade With Unsupported TPM or CPU
 echo.
 pause
 reg add HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig /v BypassCPUCheck /f /t REG_DWORD /d 00000001
