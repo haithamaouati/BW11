@@ -46,7 +46,7 @@ Use the [PC Health Check](https://www.microsoft.com/en-us/windows/windows-11#pch
 - [x] Bypass RAM Check
 - [x] Bypass TPM Check
 - [x] Bypass SecureBoot Check
-- [x] Allow Upgrade With Unsupportred TPM or CPU
+- [x] Allow Upgrade With Unsupported TPM or CPU
 
 ## Method 1
 
