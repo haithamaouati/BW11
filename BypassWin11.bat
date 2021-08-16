@@ -7,7 +7,17 @@ REM Author: Haitham Aouati
 REM Social: @haithamaouati
 cls
 
-goto :main
+goto :elevation
+
+:elevation
+net session >nul 2>&1
+if %errorLevel% == 0 (
+cls && goto :main
+) else (
+echo Run as administrator.
+pause >nul && exit
+)
+goto :eof
 
 :main
 echo Bypass Windows 11 System Requirements
