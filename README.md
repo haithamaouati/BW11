@@ -59,7 +59,7 @@ Use the [PC Health Check](https://www.microsoft.com/en-us/windows/windows-11#pch
 7. Select _All Files_ as the file type to show all files in USB drive.
 8. Right-click on the _BypassWin11.reg_ file and click on the _Merge_ option, then click _Yes_ and then _OK_.
 9. Go back to previous back and then go to the next page to proceed.<br>
-> :heavy_check_mark: The "Unsupported" screen should no longer appear and you can continue the installation.
+> The "Unsupported" screen should no longer appear and you can continue the installation.
 
 ## Method 2
 
@@ -72,19 +72,19 @@ Use the [PC Health Check](https://www.microsoft.com/en-us/windows/windows-11#pch
 7. Select _All Files_ as the file type to show all files in USB drive.
 8. Right-click on the _BypassWin11.bat_ file and click on the _Open_ or _Rus as administrator_ option, then press `Enter`.
 9. Go back to previous back and then go to the next page to proceed.<br>
-> :heavy_check_mark: The "Unsupported" screen should no longer appear and you can continue the installation.
+> The "Unsupported" screen should no longer appear and you can continue the installation.
+
+([Table of Contents](#table-of-contents))
 
 ## Disclaimer
 
-> :warning: We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
+:warning: We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
 
 ## Author
 
 Made with ❤️ and **bugs** by [**Haitham Aouati**](https://www.facebook.com/haithamaouati1/)
 &nbsp;&middot;&nbsp;
 Twitter [@haithamaouati](https://twitter.com/haithamaouati)
-
-([Table of Contents](#table-of-contents))
 
 ## License
 
