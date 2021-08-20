@@ -22,6 +22,18 @@ goto :eof
 :main
 echo Bypass Windows 11 System Requirements
 echo.
+echo  ##########  ##########
+echo  ##########  ##########
+echo  ##########  ##########
+echo  ##########  ##########
+echo  ##########  ##########
+echo.
+echo  ##########  ##########
+echo  ##########  ##########
+echo  ##########  ##########
+echo  ##########  ##########
+echo  ##########  ##########
+echo.
 echo  Author: Haitham Aouati
 echo  Social: @haithamaouati
 echo.
