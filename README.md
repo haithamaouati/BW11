@@ -1,7 +1,7 @@
 # BypassWin11
 
 ![GitHub repository](https://img.shields.io/badge/haithamaouati-BypassWin11-blue?style=flat-square&logo=github)
-![GitHub version](https://img.shields.io/badge/version-1.1-yellow?style=flat-square)
+![GitHub version](https://img.shields.io/badge/version-1.2-yellow?style=flat-square)
 
 Bypass [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) System Requirements
 
@@ -36,8 +36,6 @@ Certain features require specific hardware, see detailed [system requirements](h
 
 Check for compatibility
 Use the [PC Health Check](https://www.microsoft.com/en-us/windows/windows-11#pchealthcheck) app to see if your current PC meets the requirements to run Windows 11. If so, you can get a free upgrade when it rolls out.
-
-**COMING SOON**
 
 ## Bypass
 
