@@ -2,7 +2,7 @@ Windows Registry Editor Version 5.00
 
 ;; # Bypass Windows 11 System Requirements
 ;; # Author: Haitham Aouati
-;; # Social: @haithamaouati
+;; # Latest update: 23/03/2022
 
 [HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig]
 "BypassCPUCheck"=dword:00000001
