@@ -2,9 +2,9 @@
 title Bypass Windows 11
 mode 80,25
 color 07
-REM Bypass Windows 11
+REM Bypass Windows 11 System Requirements
 REM Author: Haitham Aouati
-REM Social: @haithamaouati
+REM Latest update: 23/03/2022
 cls
 
 goto :elevation
@@ -35,7 +35,7 @@ echo  ##########  ##########
 echo  ##########  ##########
 echo.
 echo  Author: Haitham Aouati
-echo  Social: @haithamaouati
+echo  Repo: https://github.com/haithamaouati/BypassWin11
 echo.
 echo 1) Bypass Requirements
 echo.
