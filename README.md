@@ -80,9 +80,7 @@ Use the [PC Health Check](https://www.microsoft.com/en-us/windows/windows-11#pch
 
 ## Author
 
-Made with ❤️ and **bugs** by [**Haitham Aouati**](https://www.facebook.com/haithamaouati1/)
-&nbsp;&middot;&nbsp;
-Twitter [@haithamaouati](https://twitter.com/haithamaouati)
+Made with **bugs** by [**Haitham Aouati**](https://twitter.com/haithamaouati)
 
 ## License
 
