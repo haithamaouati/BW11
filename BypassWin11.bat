@@ -4,7 +4,7 @@ mode 80,25
 color 07
 REM Bypass Windows 11 System Requirements
 REM Author: Haitham Aouati
-REM Latest update: 23/03/2022
+REM Latest update: 10/04/2022
 cls
 
 goto :elevation
@@ -20,7 +20,7 @@ pause >nul && exit
 goto :eof
 
 :main
-echo Bypass Windows 11 System Requirements
+echo BypassWin11 - Bypass Windows 11 System Requirements
 echo.
 echo  ##########  ##########
 echo  ##########  ##########
@@ -66,7 +66,7 @@ reg add HKEY_LOCAL_MACHINE\SYSTEM\Setup\MoSetup /v AllowUpgradesWithUnsupportedT
 echo Go back to previous back and then go to the next page to proceed.
 echo The "Unsupported" screen should no longer appear and you can continue the installation.
 echo.
-pause && cls & goto :main
+pause && cls && goto :main
 goto :eof
 
 :end
