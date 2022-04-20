@@ -32,11 +32,6 @@ Graphics card:|Compatible with DirectX 12 or later with WDDM 2.0 driver
 Display:|High definition (720p) display that is greater than 9” diagonally, 8 bits per color channel
 Internet connection|Microsoft account and internet connectivity required for setup for Windows 11 Home
 
-Certain features require specific hardware, see detailed [system requirements](https://www.microsoft.com/en-us/windows/windows-11-specifications).
-
-Check for compatibility
-Use the [PC Health Check](https://www.microsoft.com/en-us/windows/windows-11#pchealthcheck) app to see if your current PC meets the requirements to run Windows 11. If so, you can get a free upgrade when it rolls out.
-
 ## Bypass
 
 - [x] Bypass CPU Check
