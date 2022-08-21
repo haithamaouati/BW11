@@ -13,8 +13,7 @@ Bypass [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) System R
 
 - [System Requirements](#system-requirements)
 - [Bypass](#bypass)
-- [Method 1](#method-1)
-- [Method 2](#method-2)
+- [Method](#method)
 - [Disclaimer](#disclaimer)
 - [Author](#author)
 - [License](#license)
@@ -41,7 +40,7 @@ Internet connection|Microsoft account and internet connectivity required for set
 - [x] Bypass SecureBoot Check
 - [x] Allow Upgrade With Unsupported TPM or CPU
 
-## Method 1
+## Method
 
 1. Burn Windows 11 iso file on USB drive using [Rufus](https://rufus.ie/en/).
 2. Copy bypass file _BypassWin11.reg_ to USB drive.
@@ -51,19 +50,6 @@ Internet connection|Microsoft account and internet connectivity required for set
 6. Go to the USB drive using the files explorer of the notepad.
 7. Select _All Files_ as the file type to show all files in USB drive.
 8. Right-click on the _BypassWin11.reg_ file and click on the _Merge_ option, then click _Yes_ and then _OK_.
-9. Go back to previous back and then go to the next page to proceed.<br>
-> The "Unsupported" screen should no longer appear and you can continue the installation.
-
-## Method 2
-
-1. Burn Windows 11 iso file on USB drive using [Rufus](https://rufus.ie/en/).
-2. Copy bypass file _BypassWin11.bat_ to USB drive.
-3. Open the command prompt by pressing `Shift + F10` when this message _"This PC can't run Windows 11"_ appears.
-4. Open the Windows Notepad by typing _notepad_ in cmd.
-5. Click on the _Open_ option from the _File_ menu.
-6. Go to the USB drive using the files explorer of the notepad.
-7. Select _All Files_ as the file type to show all files in USB drive.
-8. Right-click on the _BypassWin11.bat_ file and click on the _Open_ or _Rus as administrator_ option, then press `Enter`.
 9. Go back to previous back and then go to the next page to proceed.<br>
 > The "Unsupported" screen should no longer appear and you can continue the installation.
 
