@@ -13,7 +13,7 @@ Bypass [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) System R
 
 - [System Requirements](#system-requirements)
 - [Bypass](#bypass)
-- [Method 1](#method-1)
+- [Method](#method)
 - [Disclaimer](#disclaimer)
 - [Author](#author)
 - [License](#license)
