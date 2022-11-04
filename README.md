@@ -30,7 +30,7 @@ Bypass [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) System R
 ## Method
 
 1. Burn Windows 11 iso file on USB drive using [Rufus](https://rufus.ie/en/).
-2. Copy bypass file _BypassWin11.bat_ to USB drive.
+2. Copy bypass file [BypassWin11.bat](https://github.com/haithamaouati/BypassWin11/blob/main/BypassWin11.bat) to USB drive.
 3. Open the command prompt by pressing `Shift + F10` when this message _"This PC can't run Windows 11"_ appears.
 4. Open the Windows Notepad by typing _notepad_ in cmd.
 5. Click on the _Open_ option from the _File_ menu.
