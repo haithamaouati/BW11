@@ -39,8 +39,6 @@ Bypass [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) System R
 9. Go back to previous back and then go to the next page to proceed.<br>
 > The "Unsupported" screen should no longer appear and you can continue the installation.
 
-([Table of Contents](#table-of-contents))
-
 ## Disclaimer
 
 :warning: We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
@@ -48,6 +46,8 @@ Bypass [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) System R
 ## Author
 
 Made with **bugs** by [**Haitham Aouati**](https://twitter.com/haithamaouati)
+
+([Table of Contents](#table-of-contents))
 
 ## License
 
