@@ -31,7 +31,7 @@ A simple <strong>Batchfile</strong> that bypass <strong>Windows 11</strong> syst
 
 ## Method
 
-1. Burn [Windows 11](https://www.microsoft.com/en-us/windows/) iso file on USB drive using [Rufus](https://rufus.ie/en/).
+1. Burn [Windows 11](https://www.microsoft.com/en-us/windows/) iso file on USB drive using [Rufus](https://rufus.ie/en/) tool.
 2. Copy bypass file [BypassWin11.bat](https://github.com/haithamaouati/BypassWin11/blob/main/BypassWin11.bat) to USB drive.
 3. Open the command prompt by pressing `Shift + F10` when this message _"This PC can't run Windows 11"_ appears.
 4. Open the Windows Notepad by typing `notepad` in cmd.
