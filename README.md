@@ -1,5 +1,6 @@
 # BypassWin11
 
+![BypassWin11](/main/logo.png)
 ![GitHub repository](https://img.shields.io/badge/haithamaouati-BypassWin11-blue?style=flat-square&logo=github)
 ![GitHub version](https://img.shields.io/badge/version-1.2-yellow?style=flat-square)
 
