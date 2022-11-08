@@ -46,8 +46,10 @@ A simple <strong>Batchfile</strong> that bypass <strong>Windows 11</strong> syst
 
 ```diff
 + [added] system information item.
++ [fixed] bypass.reg file.
++ [added] appraiserres.dll file.
+- [removed] code comments.
 ```
-And a lots of bug fixes and improvements.
 
 ## Disclaimer
 
