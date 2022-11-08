@@ -25,7 +25,7 @@ ___
 
 ## Requirements
 
-Hardware | Value
+Hardware | Minimum
 --- | ---
 Processor | 1 GHz
 RAM | 4 GB
