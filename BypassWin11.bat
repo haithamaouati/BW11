@@ -38,12 +38,14 @@ echo  Author: Haitham Aouati
 echo  Repo: https://github.com/haithamaouati/BypassWin11
 echo.
 echo 1) Bypass Requirements
+echo 2) System Information
 echo.
 echo 0) Exit
 echo.
 set /p input=Input:
 if %input% gtr 1 cls && goto :main
 if %input% == 1 cls && goto :bypass
+if %input% == 2 cls && goto :sysinfo
 if %input% == 0 cls && goto :end
 goto :eof
 
@@ -66,6 +68,11 @@ reg add HKEY_LOCAL_MACHINE\SYSTEM\Setup\MoSetup /v AllowUpgradesWithUnsupportedT
 echo Go back to previous back and then go to the next page to proceed.
 echo The "Unsupported" screen should no longer appear and you can continue the installation.
 echo.
+pause && cls && goto :main
+goto :eof
+
+:sysinfo
+systeminfo | findstr /B /C:"OS Name" /C:"OS Version" /C:"OS Manufacturer" /C:"OS Configuration" /C:"OS Build Type" /C:"Original Install Date" /C:"System Boot Time" /C:"System Manufacturer" /C:"System Model" /C:"System Type" /C:"Processor(s)" /C:"BIOS Version" /C:"Windows Directory" /C:"System Directory" /C:"Boot Device" /C:"System Locale" /C:"Input Locale" /C:"Total Physical Memory" /C:"Available Physical Memory" /C:"Virtual Memory: Max Size" /C:"Virtual Memory: Available" /C:"Virtual Memory: In Use" /C:"Domain" /C:"Network Card(s)"
 pause && cls && goto :main
 goto :eof
 
