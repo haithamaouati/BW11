@@ -13,6 +13,7 @@ Bypass [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) System R
 
 - [Bypass](#bypass)
 - [Method](#method)
+- [Changelog](#changelog)
 - [Disclaimer](#disclaimer)
 - [Author](#author)
 - [License](#license)
@@ -38,6 +39,12 @@ Bypass [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) System R
 8. Right-click on the [BypassWin11.bat](https://github.com/haithamaouati/BypassWin11/blob/main/BypassWin11.bat) file and click on the **Open** or **Rus as administrator** option, then press `Enter`.
 9. Go back to previous back and then go to the next page to proceed.<br>
 > The "Unsupported" screen should no longer appear and you can continue the installation.
+
+## Changelog
+
+```diff
++ added system information.
+```
 
 ## Disclaimer
 
