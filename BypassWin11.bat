@@ -38,15 +38,17 @@ echo.
 echo  Author: Haitham Aouati
 echo  Repo: https://github.com/haithamaouati/BypassWin11
 echo.
-echo 1) Bypass Requirements
-echo 2) System Information
+echo 1) Bypass (On the installation)
+echo 2) Bypass (On the currently running Windows)
+echo 3) System Information
 echo.
 echo 0) Exit
 echo.
 set /p input=Choice:
 if %input% gtr 1 cls && goto :main
 if %input% == 1 cls && goto :bypass
-if %input% == 2 cls && goto :sysinfo
+if %input% == 2 cls && goto :bypass
+if %input% == 3 cls && goto :sysinfo
 if %input% == 0 cls && goto :end
 goto :eof
 
