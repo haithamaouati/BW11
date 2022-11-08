@@ -25,12 +25,12 @@ ___
 
 ## Requirements
 
-Hardware Requirements | Value
+Hardware | Value
 --- | ---
-Processor | 1 gigahertz (GHz)
+Processor | 1 GHz
 RAM | 4 GB
 Storage | 64 GB
-System firmware | UEFI, Secure Boot capable
+System firmware | UEFI, Secure Boot
 TPM | TPM 2.0
 
 [Find Windows 11 specs, features, and computer requirements](https://www.microsoft.com/en-us/windows/windows-11-specifications)
