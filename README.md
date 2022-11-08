@@ -1,11 +1,13 @@
 # BypassWin11
 
 ![GitHub repository](https://img.shields.io/badge/haithamaouati-BypassWin11-blue?style=flat-square&logo=github)
-![GitHub version](https://img.shields.io/badge/version-1.3-yellow?style=flat-square)
+![GitHub version](https://img.shields.io/badge/version-1.4-yellow?style=flat-square)
 
-<strong>BypassWin11</strong> — Bypass [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) System Requirements
+**BypassWin11** — *Bypass [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) System Requirements*
 
-A simple <strong>Batchfile</strong> that bypass <strong>Windows 11</strong> system requirements.
+A simple __Batchfile__ that bypass __Windows 11__ system requirements.
+
+___
 
 ## Screenshots
 
