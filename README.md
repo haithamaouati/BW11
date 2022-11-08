@@ -45,10 +45,9 @@ A simple <strong>Batchfile</strong> that bypass <strong>Windows 11</strong> syst
 ## Changelog
 
 ```diff
-+ added system information.
-
-And a lots of bug fixes and improvements.
++ [added] system information item.
 ```
+And a lots of bug fixes and improvements.
 
 ## Disclaimer
 
