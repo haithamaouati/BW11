@@ -13,12 +13,21 @@ A simple <strong>Batchfile</strong> that bypass <strong>Windows 11</strong> syst
 
 ## Table of Contents
 
+- [Requirements](#requirements)
 - [Bypass](#bypass)
 - [Method](#method)
 - [Changelog](#changelog)
 - [Disclaimer](#disclaimer)
 - [Author](#author)
 - [License](#license)
+
+## Requirements
+
+Hardware Requirements | Value
+--- | ---
+Number of Cores | 2
+Processor Frequency | 1000Mhz
+System Memory | 3960MB
 
 ## Bypass
 
