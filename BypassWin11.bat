@@ -42,7 +42,7 @@ echo 2) System Information
 echo.
 echo 0) Exit
 echo.
-set /p input=Input:
+set /p input=Choice:
 if %input% gtr 1 cls && goto :main
 if %input% == 1 cls && goto :bypass
 if %input% == 2 cls && goto :sysinfo
