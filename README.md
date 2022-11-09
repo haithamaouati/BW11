@@ -13,12 +13,16 @@ ___
 
 ![Screenshot](https://github.com/haithamaouati/BypassWin11/blob/main/screenshot.PNG?raw=true "Optional Title")
 
+```batchfile
+echo hello
+```
+
 ## Table of Contents
 
 - [Requirements](#requirements)
   - [Bypass](#bypass)
-- [Method](#method)
-- [Changelog](#changelog)
+    - [Changelog](#changelog)
+- [Usage](#usage)
 - [Environments](#environments)
 - [Disclaimer](#disclaimer)
 - [Author](#author)
@@ -44,7 +48,17 @@ TPM | 2.0
 - [x] Allow Upgrade With Unsupported TPM or CPU
 - [ ] Bypass Internet connection and Microsoft account
 
-## Method
+## Changelog
+
+```diff
++ [added] administrator privileges.
++ [added] system information choice.
++ [added] bypass.reg file.
++ [added] appraiserres.dll file.
+- [removed] code comments.
+```
+
+## Usage
 
 1. Burn [Windows 11](https://www.microsoft.com/en-us/windows/) iso :cd: on USB drive using [Rufus](https://rufus.ie/en/) tool.
 2. Copy bypass file [BypassWin11.bat](https://github.com/haithamaouati/BypassWin11/blob/main/BypassWin11.bat) to USB drive.
@@ -56,16 +70,6 @@ TPM | 2.0
 8. Right-click on the [BypassWin11.bat](https://github.com/haithamaouati/BypassWin11/blob/main/BypassWin11.bat) file and click on the **Open** or **Rus as administrator** item, then press `Enter`.
 9. Go back to previous back and then go to the next page to proceed.<br>
 > The "Unsupported" screen should no longer appear and you can continue the installation.
-
-## Changelog
-
-```diff
-+ [added] administrator privileges.
-+ [added] system information choice.
-+ [added] bypass.reg file.
-+ [added] appraiserres.dll file.
-- [removed] code comments.
-```
 
 ## Environments
 
@@ -85,7 +89,7 @@ TPM | 2.0
 
 ## Author
 
-Made with :heart: by [**Haitham Aouati**](https://twitter.com/haithamaouati) and [**Jory Aouati**](https://facebook.com/joryaouati) :copyright:
+Made with :heart: by [**Haitham Aouati**](https://twitter.com/haithamaouati)
 
 ## License
 
