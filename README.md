@@ -63,14 +63,11 @@ TPM | 2.0
 # BypassWin11.bat
 + [added] administrator privileges.
 + [added] system information choice.
-- [removed] code comments.
+- [removed] source code comments.
 
 # BypassWin11.reg
-+ [added] code comments.
-
-# Repo
-+ [added] appraiserres.dll file.
-+ [modified] readme.md file.
++ [modified] reg query.
++ [fixed] bug's and errors.
 ```
 ## Usage
 
