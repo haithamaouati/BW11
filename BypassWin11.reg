@@ -1,7 +1,7 @@
 Windows Registry Editor Version 5.00
 
 ;; # Bypass Windows 11 System Requirements
-;; # Author: Haitham Aouati & Jory Aouati
+;; # Author: Haitham Aouati
 ;; # Latest update: 09/11/2022
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsSelfHost\Applicability]
@@ -20,13 +20,11 @@ Windows Registry Editor Version 5.00
 "BypassRAMCheck"=dword:00000001
 "BypassTPMCheck"=dword:00000001
 "BypassSecureBootCheck"=dword:00000001
-[HKEY_LOCAL_MACHINE\SYSTEM\Setup\MoSetup]
-"AllowUpgradesWithUnsupportedTPMOrCPU"=dword:00000001
 
 [HKEY_LOCAL_MACHINE\SYSTEM\Setup\MoSetup]
-"AllowUpgradesWithUnsupportedTPMOrCPU"=dword:00000001
 "BypassCPUCheck"=dword:00000001
 "BypassStorageCheck"=dword:00000001
 "BypassRAMCheck"=dword:00000001
 "BypassTPMCheck"=dword:00000001
 "BypassSecureBootCheck"=dword:00000001
+"AllowUpgradesWithUnsupportedTPMOrCPU"=dword:00000001
