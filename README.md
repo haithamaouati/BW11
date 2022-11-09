@@ -61,8 +61,8 @@ TPM | 2.0
 
 ```diff
 + [fixed] administrator privileges.
-+ [added] system information item.
-+ [added] bypass.reg code improvemen.
++ [added] system information choice.
++ [added] new bypass.reg improvements.
 + [added] appraiserres.dll file.
 - [removed] source code comments.
 ```
