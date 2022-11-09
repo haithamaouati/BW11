@@ -16,7 +16,7 @@ ___
 ## Table of Contents
 
 - [Requirements](#requirements)
-- [Bypass](#bypass)
+  - [Bypass](#bypass)
 - [Method](#method)
 - [Changelog](#changelog)
 - [Disclaimer](#disclaimer)
