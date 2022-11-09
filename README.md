@@ -9,12 +9,21 @@ A simple __Batchfile__ that bypass __Windows 11__ system requirements.
 
 ___
 
-## Screenshots
-
-![Screenshot](https://github.com/haithamaouati/BypassWin11/blob/main/screenshot.PNG?raw=true "Optional Title")
-
 ```batchfile
-echo hello
+echo.
+echo  ##########  ##########
+echo  ##########  ##########
+echo  ##########  ##########
+echo  ##########  ##########
+echo  ##########  ##########
+echo.
+echo  ##########  ##########
+echo  ##########  ##########
+echo  ##########  ##########
+echo  ##########  ##########
+echo  ##########  ##########
+echo.
+echo  Author: Haitham Aouati
 ```
 
 ## Table of Contents
