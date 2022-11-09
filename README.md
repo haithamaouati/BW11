@@ -61,7 +61,7 @@ TPM | 2.0
 
 ```diff
 + [added] system information item.
-+ [fixed] bypass.reg code.
++ [fixed] bypass.reg code improvemen.
 + [added] appraiserres.dll file.
 - [removed] source code comments.
 ```
