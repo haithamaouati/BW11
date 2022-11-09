@@ -32,9 +32,7 @@ Processor | 1 GHz
 RAM | 4 GB
 Storage | 64 GB
 System firmware | UEFI, Secure Boot
-TPM | TPM 2.0
-
-[Find Windows 11 specs, features, and computer requirements](https://www.microsoft.com/en-us/windows/windows-11-specifications)
+TPM | 2.0
 
 ## Bypass
 
