@@ -30,7 +30,7 @@ echo  Author: Haitham Aouati
 
 - [Requirements](#requirements)
   - [Bypass](#bypass)
-    - [Changelog](#changelog)
+  - [Changelog](#changelog)
 - [Usage](#usage)
 - [Environments](#environments)
 - [Disclaimer](#disclaimer)
@@ -60,13 +60,18 @@ TPM | 2.0
 ## Changelog
 
 ```diff
+# BypassWin11.bat
 + [added] administrator privileges.
 + [added] system information choice.
-+ [added] bypass.reg file.
-+ [added] appraiserres.dll file.
 - [removed] code comments.
-```
 
+# BypassWin11.reg
++ [added] code comments.
+
+# Repo
++ [added] appraiserres.dll file.
++ [modified] readme.md file.
+```
 ## Usage
 
 1. Burn [Windows 11](https://www.microsoft.com/en-us/windows/) iso :cd: on USB drive using [Rufus](https://rufus.ie/en/) tool.
@@ -90,7 +95,7 @@ TPM | 2.0
     * Windows 11
 
 **Tested on**
-- [x] Windows 10
+- Windows 10
 
 ## Disclaimer
 
