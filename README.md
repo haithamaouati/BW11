@@ -70,9 +70,13 @@ TPM | 2.0
 
 * Windows
     * Windows 7
-    * Windows 8.1
+    * Windows 8
+      * Windows 8.1
     * Windows 10
     * Windows 11
+
+**Tested on**
+- Windows 10
 
 ## Disclaimer
 
