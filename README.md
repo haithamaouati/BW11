@@ -60,11 +60,11 @@ TPM | 2.0
 ## Changelog
 
 ```diff
-+ [fixed] administrator privileges.
++ [added] administrator privileges.
 + [added] system information choice.
-+ [added] bypass.reg improvements.
++ [added] bypass.reg file.
 + [added] appraiserres.dll file.
-- [removed] source code comments.
+- [removed] code comments.
 ```
 
 ## Environments
