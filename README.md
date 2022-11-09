@@ -42,6 +42,7 @@ TPM | 2.0
 - [x] Bypass TPM Check
 - [x] Bypass SecureBoot Check
 - [x] Allow Upgrade With Unsupported TPM or CPU
+- [ ] Bypass Internet connection and Microsoft account
 
 ## Method
 
@@ -60,9 +61,9 @@ TPM | 2.0
 
 ```diff
 + [added] system information item.
-+ [fixed] bypass.reg file.
++ [fixed] bypass.reg code.
 + [added] appraiserres.dll file.
-- [removed] code comments.
+- [removed] source code comments.
 ```
 
 ## Environments
