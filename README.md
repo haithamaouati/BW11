@@ -85,7 +85,7 @@ TPM | 2.0
 
 ## Author
 
-Made with :heart: by [**Haitham Aouati**](https://twitter.com/haithamaouati) and [**Jory Aouati**](https://facebook.com/joryaouati)
+Made with :heart: by [**Haitham Aouati**](https://twitter.com/haithamaouati) and [**Jory Aouati**](https://facebook.com/joryaouati) :copyright:
 
 ## License
 
