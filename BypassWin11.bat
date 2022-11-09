@@ -3,8 +3,7 @@ title Bypass Windows 11
 mode 80,25
 color 07
 REM Bypass Windows 11 System Requirements
-REM Author: Haitham Aouati
-REM Contribution: Jory Aouati
+REM Author: Haitham Aouati & Jory Aouati
 REM Latest update: 08/11/2022
 cls
 
