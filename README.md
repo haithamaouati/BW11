@@ -23,7 +23,7 @@ echo  ##########  ##########
 echo  ##########  ##########
 echo  ##########  ##########
 echo.
-echo  Author: Haitham Aouati
+echo     BypassWin11 v1.4
 ```
 
 ## Table of Contents
