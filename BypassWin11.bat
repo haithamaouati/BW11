@@ -4,7 +4,7 @@ mode 80,25
 color 07
 REM Bypass Windows 11 System Requirements
 REM Author: Haitham Aouati & Jory Aouati
-REM Latest update: 08/11/2022
+REM Latest update: 09/11/2022
 cls
 
 goto :elevation
