@@ -19,6 +19,7 @@ ___
   - [Bypass](#bypass)
 - [Method](#method)
 - [Changelog](#changelog)
+- [Environments](#environments)
 - [Disclaimer](#disclaimer)
 - [Author](#author)
 - [License](#license)
@@ -65,6 +66,14 @@ TPM | TPM 2.0
 + [added] appraiserres.dll file.
 - [removed] code comments.
 ```
+
+## Environments
+
+* Windows
+    * Windows 7
+    * Windows 8.1
+    * Windows 10
+    * Windows 11
 
 ## Disclaimer
 
