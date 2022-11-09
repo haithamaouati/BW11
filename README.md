@@ -86,8 +86,8 @@ TPM | 2.0
 
 Made with :heart: by [**Haitham Aouati**](https://twitter.com/haithamaouati) and [**Jory Aouati**](https://facebook.com/joryaouati)
 
-([Table of Contents](#table-of-contents))
-
 ## License
 
 This repository is under [Unlicense License](https://github.com/haithamaouati/BypassTPMCheck-SecureBoot/blob/main/LICENSE).
+
+([Table of Contents](#table-of-contents))
