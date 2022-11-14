@@ -115,8 +115,6 @@ Made with :heart: by **Haitham Aouati**
 ![](https://badgen.net/badge/icon/twitter?icon=twitter&label)
 ![twitter](https://badgen.net/twitter/follow/haithamaouati)
 
-![telegram](https://badgen.net/badge/icon/telegram?icon=telegram&label)(t.me/haithamaouati)
-
 ([Table of Contents](#table-of-contents))
 
 ## License
