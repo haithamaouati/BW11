@@ -115,7 +115,14 @@ Made with :heart: by **Haitham Aouati**
 ![](https://badgen.net/badge/icon/twitter?icon=twitter&label)
 ![twitter](https://badgen.net/twitter/follow/haithamaouati)
 
+![](https://badgen.net/badge/icon/telegram?icon=telegram&label)
+<a href="t.me/haithamaouati">![telegram](https://badgen.net/badge/t.me/haithamaouati/grey)</a>
+
 ([Table of Contents](#table-of-contents))
+
+## Contributors
+
+Thanks to our [contributors]() 🎉👏
 
 ## License
 
