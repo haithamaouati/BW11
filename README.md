@@ -16,7 +16,6 @@
 
 ___
 
-![github](https://badgen.net/badge/icon/github?icon=github&label)
 ![watchers](https://badgen.net/github/watchers/haithamaouati/BypassWin11)
 ![stars](https://badgen.net/github/stars/haithamaouati/BypassWin11)
 ![forks](https://badgen.net/github/forks/haithamaouati/BypassWin11)
@@ -122,6 +121,7 @@ ___
 
 Thanks to our [contributors](https://github.com/haithamaouati/BypassWin11/graphs/contributors) 🎉👏
 
+![github](https://badgen.net/badge/icon/github?icon=github&label)
 ![](https://badgen.net/badge/icon/telegram?icon=telegram&label)
 <a href="t.me/haithamaouati">![telegram](https://badgen.net/badge/t.me/haithamaouati/grey)</a>
 
