@@ -1,5 +1,6 @@
 # BypassWin11
 
+![github](https://badgen.net/badge/icon/github?icon=github&label)
 ![watchers](https://badgen.net/github/watchers/haithamaouati/BypassWin11)
 ![stars](https://badgen.net/github/stars/haithamaouati/BypassWin11)
 ![forks](https://badgen.net/github/forks/haithamaouati/BypassWin11)
@@ -87,6 +88,8 @@ TPM | 2.0
 
 ## Environments
 
+![windows](https://badgen.net/badge/icon/windows?icon=windows&label)
+
 * Windows
     * Windows 8
       * Windows 8.1
@@ -109,7 +112,10 @@ TPM | 2.0
 
 Made with :heart: by **Haitham Aouati**
 
+![](https://badgen.net/badge/icon/twitter?icon=twitter&label)
 ![twitter](https://badgen.net/twitter/follow/haithamaouati)
+
+![telegram](https://badgen.net/badge/icon/telegram?icon=telegram&label)(t.me/haithamaouati)
 
 ([Table of Contents](#table-of-contents))
 
