@@ -2,7 +2,7 @@ Windows Registry Editor Version 5.00
 
 ;; # Bypass Windows 11 System Requirements
 ;; # Author: Haitham Aouati
-;; # Latest update: 09/11/2022
+;; # GitHub: https://github.com/haithamaouati
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsSelfHost\Applicability]
 "BranchName"="Dev"
