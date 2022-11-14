@@ -1,6 +1,6 @@
 # BypassWin11
 
-![repo](https://img.shields.io/badge/haithamaouati-BypassWin11-lightgrey?style=flat-square&logo=github)
+![followers](https://img.shields.io/github/followers/haithamaouati?color=lightgrey&style=flat-square&logo=github)
 ![version](https://img.shields.io/badge/version-1.4-orange?style=flat-square)
 ![starts](https://img.shields.io/github/stars/haithamaouati/BypassWin11?color=yellow&style=flat-square)
 ![forks](https://img.shields.io/github/forks/haithamaouati/BypassWin11?color=blue&style=flat-square)
