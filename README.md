@@ -63,11 +63,7 @@ TPM | 2.0
 ```diff
 # BypassWin11.bat
 + [added] administrator privileges.
-+ [added] system information section.
 - [removed] batchfile code comments.
-
-# BypassWin11.reg
-+ [added] more reg query.
 ```
 ## Usage
 
