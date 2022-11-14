@@ -2,9 +2,14 @@
 
 The simplest tool to bypass the minimum requirements to install Windows 11
 
-![GitHub repository](https://img.shields.io/badge/haithamaouati-BypassWin11-blue?style=flat-square&logo=github)
-![GitHub version](https://img.shields.io/badge/version-1.4-yellow?style=flat-square)
-[![Download - BypassWin11](https://img.shields.io/badge/Download-BypassWin11-green?style=flat-square)](https://github.com/haithamaouati/BypassWin11/archive/refs/heads/main.zip?raw=true:)
+![repo](https://img.shields.io/badge/haithamaouati-BypassWin11-lightgrey?style=flat-square&logo=github)
+![version](https://img.shields.io/badge/version-1.4-orange?style=flat-square)
+![starts](https://img.shields.io/github/stars/haithamaouati/BypassWin11?color=yellow&style=flat-square)
+![forks](https://img.shields.io/github/forks/haithamaouati/BypassWin11?color=blue&style=flat-square)
+![downloads](https://img.shields.io/github/downloads/haithamaouati/BypassWin11/total?color=green&style=flat-square)
+![license](https://img.shields.io/github/license/haithamaouati/BypassWin11?style=flat-square)
+
+![ide](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 
 ___
 
@@ -83,6 +88,8 @@ TPM | 2.0
 
 ## Environments
 
+![os](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 * Windows
     * Windows 8
       * Windows 8.1
@@ -100,6 +107,9 @@ TPM | 2.0
 ## Author
 
 Made with :heart: by [**Haitham Aouati**](https://twitter.com/haithamaouati)
+
+![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
 
 ## License
 
