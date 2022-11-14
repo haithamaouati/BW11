@@ -1,8 +1,6 @@
 # BypassWin11
 
-**BypassWin11** — *Bypass [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) System Requirements*
-
-A simplest tool written in **Batchfile** that bypass **Windows 11** system requirements.
+The simplest tool to bypass the minimum requirements to install Windows 11
 
 ![GitHub repository](https://img.shields.io/badge/haithamaouati-BypassWin11-blue?style=flat-square&logo=github)
 ![GitHub version](https://img.shields.io/badge/version-1.4-yellow?style=flat-square)
