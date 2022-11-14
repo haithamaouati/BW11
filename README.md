@@ -44,6 +44,8 @@ ___
 
 ## Download
 
+<a href="https://github.com/haithamaouati/BypassWin11/archive/refs/heads/main.zip">![windows](https://badgen.net/badge/Download/BypassWin11.zip/blue)</a>
+
 ___
 
 ## Requirements
@@ -75,7 +77,7 @@ ___
 3. Open the Command prompt by pressing `Shift + F10` when this message _"This PC can't run Windows 11"_ appears.
 4. Open the Notepad by typing notepad in CMD.
 5. Click on the **Open** item from the **File** menu.
-6. Go to the USB drive using the **Files Explorer** :file_folder: of the notepad.
+6. Go to the USB drive using the **Files Explorer** of the notepad.
 7. Select **All Files** as the file type to show all files on USB drive.
 8. Right-click on the [BypassWin11.bat](https://github.com/haithamaouati/BypassWin11/blob/main/BypassWin11.bat) file and click on the **Open** or **Rus as administrator** item, then press `Enter`.
 9. Go back to previous back and then go to the next page to proceed.<br>
