@@ -6,7 +6,7 @@
 ![license](https://badgen.net/github/license/haithamaouati/BypassWin11)
 ![contributors](https://badgen.net/github/contributors/haithamaouati/BypassWin11)
 
-**BypassWin11** — A super simplest, smallest tool written in pure **Batchfile** to **bypass** the minimum **Windows 11** system requirements.
+**BypassWin11** — A super simplest, smallest tool to **bypass** the minimum **Windows 11** system requirements.
 
 ___
 
@@ -29,13 +29,14 @@ ___
 ## Table of Contents
 
 - [Requirements](#requirements)
-  - [Bypass](#bypass)
-  - [Changelog](#changelog)
+- [Changelog](#changelog)
 - [Usage](#usage)
 - [Environments](#environments)
 - [Disclaimer](#disclaimer)
 - [Author](#author)
 - [License](#license)
+
+([Table of Contents](#table-of-contents))
 
 ## Requirements
 
@@ -47,8 +48,6 @@ Storage | 64 GB
 System firmware | UEFI, Secure Boot
 TPM | 2.0
 
-## Bypass
-
 - [x] Bypass CPU Check
 - [x] Bypass Storage Check
 - [x] Bypass RAM Check
@@ -57,6 +56,8 @@ TPM | 2.0
 - [x] Allow Upgrade With Unsupported TPM or CPU
 - [ ] Bypass Internet connection and Microsoft account
 
+([Table of Contents](#table-of-contents))
+
 ## Changelog
 
 ```diff
@@ -64,6 +65,9 @@ TPM | 2.0
 + [added] administrator privileges.
 - [removed] batchfile code comments.
 ```
+
+([Table of Contents](#table-of-contents))
+
 ## Usage
 
 1. Burn [Windows 11](https://www.microsoft.com/en-us/windows/) iso :cd: on USB drive using [Rufus](https://rufus.ie/en/) tool.
@@ -79,6 +83,8 @@ TPM | 2.0
 > **Note**:
 > The "Unsupported" screen should no longer ~~appear~~ and you can continue the installation.
 
+([Table of Contents](#table-of-contents))
+
 ## Environments
 
 * Windows
@@ -90,16 +96,22 @@ TPM | 2.0
 ###### Tested on
 - Windows 10
 
+([Table of Contents](#table-of-contents))
+
 ## Disclaimer
 
 > **Warning**:
 > We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
 
+([Table of Contents](#table-of-contents))
+
 ## Author
 
 Made with :heart: by **Haitham Aouati**
 
-![twitter](https://img.shields.io/twitter/follow/haithamaouati?style=social&logo=twitter)
+![twitter](https://badgen.net/twitter/follow/haithamaouati)
+
+([Table of Contents](#table-of-contents))
 
 ## License
 
