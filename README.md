@@ -1,7 +1,5 @@
 # BypassWin11
 
-The simplest tool to bypass the minimum requirements to install Windows 11
-
 ![repo](https://img.shields.io/badge/haithamaouati-BypassWin11-lightgrey?style=flat-square&logo=github)
 ![version](https://img.shields.io/badge/version-1.4-orange?style=flat-square)
 ![starts](https://img.shields.io/github/stars/haithamaouati/BypassWin11?color=yellow&style=flat-square)
@@ -9,7 +7,7 @@ The simplest tool to bypass the minimum requirements to install Windows 11
 ![downloads](https://img.shields.io/github/downloads/haithamaouati/BypassWin11/total?color=green&style=flat-square)
 ![license](https://img.shields.io/github/license/haithamaouati/BypassWin11?style=flat-square)
 
-![ide](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+**BypassWin11** — A super simplest, smallest tool written in pure **Batchfile** to **bypass** the minimum **Windows 11** system requirements.
 
 ___
 
