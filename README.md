@@ -1,7 +1,7 @@
 # BypassWin11
 
 ![followers](https://img.shields.io/github/followers/haithamaouati?color=lightgrey&style=flat-square&logo=github)
-![version](https://img.shields.io/badge/version-1.4-orange?style=flat-square)
+![version](https://img.shields.io/badge/version-1.0-orange?style=flat-square)
 ![starts](https://img.shields.io/github/stars/haithamaouati/BypassWin11?color=yellow&style=flat-square)
 ![forks](https://img.shields.io/github/forks/haithamaouati/BypassWin11?color=blue&style=flat-square)
 ![downloads](https://img.shields.io/github/downloads/haithamaouati/BypassWin11/total?color=green&style=flat-square)
@@ -24,7 +24,7 @@ ___
       ##########  ##########
       ##########  ##########
 
-         BypassWin11 v1.4
+         BypassWin11 v1.0
 ```
 
 ## Table of Contents
