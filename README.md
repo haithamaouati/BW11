@@ -86,8 +86,6 @@ TPM | 2.0
 
 ## Environments
 
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-
 * Windows
     * Windows 8
       * Windows 8.1
@@ -104,13 +102,9 @@ TPM | 2.0
 
 ## Author
 
-Made with :heart: by [**Haitham Aouati**](https://twitter.com/haithamaouati)
+Made with :heart: by **Haitham Aouati**
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![twitter](https://img.shields.io/twitter/follow/haithamaouati?style=social&logo=twitter)
 
 ## License
 
