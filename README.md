@@ -99,7 +99,8 @@ TPM | 2.0
 
 ## Author
 
-Made with :heart: by [**Haitham Aouati**](https://twitter.com/haithamaouati)
+| Made with :heart: by [**Haitham Aouati**](https://twitter.com/haithamaouati) |
+| --- |
 
 ## License
 
