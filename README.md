@@ -1,16 +1,3 @@
-# BypassWin11
-
-![github](https://badgen.net/badge/icon/github?icon=github&label)
-![watchers](https://badgen.net/github/watchers/haithamaouati/BypassWin11)
-![stars](https://badgen.net/github/stars/haithamaouati/BypassWin11)
-![forks](https://badgen.net/github/forks/haithamaouati/BypassWin11)
-![license](https://badgen.net/github/license/haithamaouati/BypassWin11)
-![contributors](https://badgen.net/github/contributors/haithamaouati/BypassWin11)
-
-**BypassWin11** — A super simplest, smallest tool to **bypass** the minimum **Windows 11** system requirements.
-
-___
-
 ```batchfile
       ##########  ##########
       ##########  ##########
@@ -27,6 +14,21 @@ ___
          BypassWin11 v1.0
 ```
 
+___
+
+![github](https://badgen.net/badge/icon/github?icon=github&label)
+![watchers](https://badgen.net/github/watchers/haithamaouati/BypassWin11)
+![stars](https://badgen.net/github/stars/haithamaouati/BypassWin11)
+![forks](https://badgen.net/github/forks/haithamaouati/BypassWin11)
+![license](https://badgen.net/github/license/haithamaouati/BypassWin11)
+![contributors](https://badgen.net/github/contributors/haithamaouati/BypassWin11)
+
+# BypassWin11
+
+_bypass windows 11 system requirements._
+
+___
+
 ## Table of Contents
 
 - [Requirements](#requirements)
@@ -35,6 +37,7 @@ ___
 - [Environments](#environments)
 - [Disclaimer](#disclaimer)
 - [Author](#author)
+- [Contributors](#contributors)
 - [License](#license)
 
 ([Table of Contents](#table-of-contents))
@@ -57,7 +60,7 @@ TPM | 2.0
 - [x] Allow Upgrade With Unsupported TPM or CPU
 - [ ] Bypass Internet connection and Microsoft account
 
-([Table of Contents](#table-of-contents))
+___
 
 ## Changelog
 
@@ -67,7 +70,7 @@ TPM | 2.0
 - [removed] batchfile code comments.
 ```
 
-([Table of Contents](#table-of-contents))
+___
 
 ## Usage
 
@@ -84,7 +87,7 @@ TPM | 2.0
 > **Note**:
 > The "Unsupported" screen should no longer ~~appear~~ and you can continue the installation.
 
-([Table of Contents](#table-of-contents))
+___
 
 ## Environments
 
@@ -99,14 +102,14 @@ TPM | 2.0
 ###### Tested on
 - Windows 10
 
-([Table of Contents](#table-of-contents))
+___
 
 ## Disclaimer
 
 > **Warning**:
 > We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
 
-([Table of Contents](#table-of-contents))
+___
 
 ## Author
 
@@ -115,14 +118,16 @@ Made with :heart: by **Haitham Aouati**
 ![](https://badgen.net/badge/icon/twitter?icon=twitter&label)
 ![twitter](https://badgen.net/twitter/follow/haithamaouati)
 
-![](https://badgen.net/badge/icon/telegram?icon=telegram&label)
-<a href="t.me/haithamaouati">![telegram](https://badgen.net/badge/t.me/haithamaouati/grey)</a>
-
-([Table of Contents](#table-of-contents))
+___
 
 ## Contributors
 
-Thanks to our [contributors]() 🎉👏
+Thanks to our [contributors](https://github.com/haithamaouati/BypassWin11/graphs/contributors) 🎉👏
+
+![](https://badgen.net/badge/icon/telegram?icon=telegram&label)
+<a href="t.me/haithamaouati">![telegram](https://badgen.net/badge/t.me/haithamaouati/grey)</a>
+
+___
 
 ## License
 
