@@ -1,11 +1,10 @@
 # BypassWin11
 
-![followers](https://img.shields.io/github/followers/haithamaouati?color=lightgrey&style=flat-square&logo=github)
-![version](https://img.shields.io/badge/version-1.0-orange?style=flat-square)
-![starts](https://img.shields.io/github/stars/haithamaouati/BypassWin11?color=yellow&style=flat-square)
-![forks](https://img.shields.io/github/forks/haithamaouati/BypassWin11?color=blue&style=flat-square)
-![downloads](https://img.shields.io/github/downloads/haithamaouati/BypassWin11/total?color=green&style=flat-square)
-![license](https://img.shields.io/github/license/haithamaouati/BypassWin11?style=flat-square)
+![watchers](https://badgen.net/github/watchers/haithamaouati/BypassWin11)
+![stars](https://badgen.net/github/stars/haithamaouati/BypassWin11)
+![forks](https://badgen.net/github/forks/haithamaouati/BypassWin11)
+![license](https://badgen.net/github/license/haithamaouati/BypassWin11)
+![contributors](https://badgen.net/github/contributors/haithamaouati/BypassWin11)
 
 **BypassWin11** — A super simplest, smallest tool written in pure **Batchfile** to **bypass** the minimum **Windows 11** system requirements.
 
