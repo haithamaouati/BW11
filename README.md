@@ -77,23 +77,25 @@ TPM | 2.0
 7. Select **All Files** as the file type to show all files on USB drive.
 8. Right-click on the [BypassWin11.bat](https://github.com/haithamaouati/BypassWin11/blob/main/BypassWin11.bat) file and click on the **Open** or **Rus as administrator** item, then press `Enter`.
 9. Go back to previous back and then go to the next page to proceed.<br>
-> **Note**: The "Unsupported" screen should no longer ~~appear~~ and you can continue the installation.
+
+> **Note**:
+> The "Unsupported" screen should no longer ~~appear~~ and you can continue the installation.
 
 ## Environments
 
 * Windows
-    * Windows 7
     * Windows 8
       * Windows 8.1
     * Windows 10
     * Windows 11
 
-**Tested on**
+###### Tested on
 - Windows 10
 
 ## Disclaimer
 
-> **Warning**: We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
+> **Warning**:
+> We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
 
 ## Author
 
