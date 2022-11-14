@@ -31,8 +31,8 @@ ___
 
 ## Table of Contents
 
+- [Download](#download)
 - [Requirements](#requirements)
-- [Changelog](#changelog)
 - [Usage](#usage)
 - [Environments](#environments)
 - [Disclaimer](#disclaimer)
@@ -41,6 +41,10 @@ ___
 - [License](#license)
 
 ([Table of Contents](#table-of-contents))
+
+## Download
+
+___
 
 ## Requirements
 
@@ -52,6 +56,8 @@ Storage | 64 GB
 System firmware | UEFI, Secure Boot
 TPM | 2.0
 
+###### Bypass Requirements
+
 - [x] Bypass CPU Check
 - [x] Bypass Storage Check
 - [x] Bypass RAM Check
@@ -59,16 +65,6 @@ TPM | 2.0
 - [x] Bypass SecureBoot Check
 - [x] Allow Upgrade With Unsupported TPM or CPU
 - [ ] Bypass Internet connection and Microsoft account
-
-___
-
-## Changelog
-
-```diff
-# BypassWin11.bat
-+ [added] administrator privileges.
-- [removed] batchfile code comments.
-```
 
 ___
 
