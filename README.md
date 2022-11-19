@@ -42,7 +42,7 @@ ___
 
 ## Download
 
-<a href="https://github.com/haithamaouati/BypassWin11/archive/refs/heads/main.zip">![windows](https://badgen.net/badge/Download/BypassWin11.zip/blue)</a>
+<a href="https://github.com/haithamaouati/BypassWin11/archive/refs/heads/main.zip">![windows](https://badgen.net/badge/Download/BypassWin11.zip/green)</a>
 
 ___
 
