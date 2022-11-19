@@ -71,17 +71,17 @@ ___
 ## Usage
 
 1. Burn [Windows 11](https://www.microsoft.com/en-us/windows/) iso :cd: on USB drive using [Rufus](https://rufus.ie/en/) tool.
-2. Copy bypass file **BypassWin11.bat** to USB drive.
-3. Open the Command prompt by pressing `Shift + F10` when this message _"This PC can't run Windows 11"_ appears.
-4. Open the Notepad by typing notepad in CMD.
+2. Copy **BypassWin11.bat** to USB drive.
+3. Open the Command prompt (CMD) by pressing `Shift + F10` when this message _"This PC can't run Windows 11"_ appears.
+4. Open the Notepad by typing `notepad` in CMD.
 5. Click on the **Open** item from the **File** menu.
-6. Go to the USB drive using the **Files Explorer** of the notepad.
+6. Go to the USB drive using the **Files Explorer** of the Notepad.
 7. Select **All Files** as the file type to show all files on USB drive.
-8. Right-click on the [BypassWin11.bat](https://github.com/haithamaouati/BypassWin11/blob/main/BypassWin11.bat) file and click on the **Open** or **Rus as administrator** item, then press `Enter`.
-9. Go back to previous back and then go to the next page to proceed.<br>
+8. Right-click on the **BypassWin11.bat** file and click on the **Open** or **Rus as administrator** item, then press `Enter`.
+9. Go back to previous back and then go to the next page to proceed.
 
 > **Note**:
-> The "Unsupported" screen should no longer ~~appear~~ and you can continue the installation.
+> The "**Unsupported**" screen should no longer ~~appear~~ and you can continue the installation.
 
 ___
 
