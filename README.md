@@ -36,7 +36,6 @@ ___
 - [Environments](#environments)
 - [Disclaimer](#disclaimer)
 - [Author](#author)
-- [Contributors](#contributors)
 - [License](#license)
 
 ([Table of Contents](#table-of-contents))
@@ -114,12 +113,6 @@ Made with :heart: by **Haitham Aouati**
 
 ![](https://badgen.net/badge/icon/twitter?icon=twitter&label)
 ![twitter](https://badgen.net/twitter/follow/haithamaouati)
-
-___
-
-## Contributors
-
-Thanks to our [contributors](https://github.com/haithamaouati/BypassWin11/graphs/contributors) 🎉👏
 
 ![github](https://badgen.net/badge/icon/github?icon=github&label)
 ![](https://badgen.net/badge/icon/telegram?icon=telegram&label)
