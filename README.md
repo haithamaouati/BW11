@@ -16,10 +16,10 @@
 
 ___
 
-![watchers](https://badgen.net/github/watchers/haithamaouati/BypassWin11)
-![stars](https://badgen.net/github/stars/haithamaouati/BypassWin11)
-![forks](https://badgen.net/github/forks/haithamaouati/BypassWin11)
-![license](https://badgen.net/github/license/haithamaouati/BypassWin11)
+![watchers](https://custom-icon-badges.demolab.com/github/watchers/haithamaouati/BypassWin11?logo=eye)
+![stars](https://custom-icon-badges.demolab.com/github/stars/haithamaouati/BypassWin11?logo=star)
+![forks](https://custom-icon-badges.demolab.com/github/forks/haithamaouati/BypassWin11?logo=repo-forked)
+![license](https://custom-icon-badges.demolab.com/github/license/haithamaouati/BypassWin11?logo=law)
 ![contributors](https://badgen.net/github/contributors/haithamaouati/BypassWin11)
 
 # BypassWin11
@@ -42,7 +42,7 @@ ___
 
 ## Download
 
-<a href="https://github.com/haithamaouati/BypassWin11/archive/refs/heads/main.zip">![windows](https://badgen.net/badge/Download/BypassWin11.zip/green)</a>
+<a href="https://github.com/haithamaouati/BypassWin11/archive/refs/heads/main.zip">![download](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white)</a>
 
 ___
 
@@ -113,6 +113,8 @@ Made with :heart: by **Haitham Aouati**
 
 ![](https://badgen.net/badge/icon/twitter?icon=twitter&label)
 ![twitter](https://badgen.net/twitter/follow/haithamaouati)
+
+Send me on **Telegram**
 
 ![github](https://badgen.net/badge/icon/github?icon=github&label)
 ![](https://badgen.net/badge/icon/telegram?icon=telegram&label)
