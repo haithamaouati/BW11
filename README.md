@@ -20,7 +20,6 @@ ___
 ![stars](https://custom-icon-badges.demolab.com/github/stars/haithamaouati/BypassWin11?logo=star)
 ![forks](https://custom-icon-badges.demolab.com/github/forks/haithamaouati/BypassWin11?logo=repo-forked)
 ![license](https://custom-icon-badges.demolab.com/github/license/haithamaouati/BypassWin11?logo=law)
-![contributors](https://badgen.net/github/contributors/haithamaouati/BypassWin11)
 
 # BypassWin11
 
