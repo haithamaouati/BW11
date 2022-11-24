@@ -44,6 +44,14 @@ ___
 
 <a href="https://github.com/haithamaouati/BypassWin11/archive/refs/heads/main.zip">![download](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white)</a>
 
+##### Changelog
+
+```diff
+# Latest update: 25/11/2022
++ [Added] Administrative privileges
+- [Removed] Batch code comments
+```
+
 ___
 
 ## Requirements
@@ -95,9 +103,6 @@ ___
     * Windows 10
     * Windows 11
 
-###### Tested on
-- Windows 10
-
 ___
 
 ## Disclaimer
@@ -109,7 +114,7 @@ ___
 
 ## Author
 
-Made with :heart: by **Haitham Aouati**
+Made with **bugs** :beetle: by **Haitham Aouati**
 
 ![](https://badgen.net/badge/icon/twitter?icon=twitter&label)
 ![twitter](https://badgen.net/twitter/follow/haithamaouati)
