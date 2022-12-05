@@ -49,6 +49,10 @@ Want to learn more about BypassWin11? Check this [README.md](https://github.com/
 
 ## Download
 
+MD5 hash:
+```
+```
+
 <a href="https://github.com/haithamaouati/BypassWin11/archive/refs/heads/main.zip">![download](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white)</a>
 
 ## FAQ
