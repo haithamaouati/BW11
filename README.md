@@ -45,7 +45,7 @@ ___
 
 ## Getting started
 
-Want to learn more about BypassWin11? Check this README.md
+Want to learn more about BypassWin11? Check this [README.md](https://github.com/haithamaouati/BypassWin11/blob/main/README.md)
 
 ## Download
 
