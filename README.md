@@ -29,8 +29,12 @@ ___
 
 ## Table of Contents
 
-- [Download](#download)
-- [Requirements](#requirements)
+- [Getting started](#getting-started)
+  - [Download](#download)
+  - [FAQ](#faq)
+- [Features](#features)
+  - [ToDo](#todo)
+  - [Changelog](#changelog)
 - [Usage](#usage)
 - [Environments](#environments)
 - [Disclaimer](#disclaimer)
@@ -39,21 +43,30 @@ ___
 
 ([Table of Contents](#table-of-contents))
 
+## Getting started
+
+
 ## Download
 
 <a href="https://github.com/haithamaouati/BypassWin11/archive/refs/heads/main.zip">![download](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white)</a>
 
-##### Changelog
+## FAQ
 
-```diff
-# Latest update: 25/11/2022
-+ [Added] Administrative privileges
-- [Removed] Batch code comments
-```
+Here are some frequently asked questions. If you have a different question, please ask using [Discussions](https://github.com/haithamaouati/BypassWin11/discussions).
 
-___
+1. **Q:** What is it?
 
-## Requirements
+   **A:** It's Windows 11 system requirements bypasser.
+2. **Q:** Why?
+
+   **A:** Because some people can't upgrade they hardware.
+3. **Q:** How to use it?
+
+   **A:** By following the instructions [Usage](#usage)
+
+## Features
+
+###### Requirements
 
 Hardware | Minimum
 --- | ---
@@ -62,8 +75,9 @@ RAM | 4 GB
 Storage | 64 GB
 System firmware | UEFI, Secure Boot
 TPM | 2.0
+Internet connection| Microsoft account
 
-###### Bypass Requirements
+###### Bypassed requirements
 
 - [x] Bypass CPU Check
 - [x] Bypass Storage Check
@@ -71,12 +85,23 @@ TPM | 2.0
 - [x] Bypass TPM Check
 - [x] Bypass SecureBoot Check
 - [x] Allow Upgrade With Unsupported TPM or CPU
+
+## ToDo
+
 - [ ] Bypass Internet connection and Microsoft account
 
+## Changelog
+
+```diff
+# Comment
++ [Added]
+- [Removed]
+```
 ___
 
 ## Usage
 
+###### Method one
 1. Burn [Windows 11](https://www.microsoft.com/en-us/windows/) iso :cd: on USB drive using [Rufus](https://rufus.ie/en/) tool.
 2. Copy **BypassWin11.bat** to USB drive.
 3. Open the Command prompt (CMD) by pressing `Shift + F10` when this message _"This PC can't run Windows 11"_ appears.
@@ -113,7 +138,7 @@ ___
 
 ## Author
 
-Made with **bugs** :beetle: by **Haitham Aouati**
+Made with **bugs** and :heart: by **Haitham Aouati**
 
 ![](https://badgen.net/badge/icon/twitter?icon=twitter&label)
 ![twitter](https://badgen.net/twitter/follow/haithamaouati)
