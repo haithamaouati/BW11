@@ -152,8 +152,8 @@ Made with **bugs** and :heart: by **Haitham Aouati**
 ### Show your support
 Give a :star: if you like this project!
 
+([Table of Contents](#table-of-contents))
+
 ## License
 
 This repository is under [Unlicense License](https://github.com/haithamaouati/BypassTPMCheck-SecureBoot/blob/main/LICENSE).
-
-([Table of Contents](#table-of-contents))
