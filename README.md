@@ -144,6 +144,9 @@ Made with **bugs** and :heart: by **Haitham Aouati**
 ![](https://badgen.net/badge/icon/twitter?icon=twitter&label)
 ![twitter](https://badgen.net/twitter/follow/haithamaouati)
 
+### Show your support
+Give a :star: if you like this project!
+
 ## License
 
 This repository is under [Unlicense License](https://github.com/haithamaouati/BypassTPMCheck-SecureBoot/blob/main/LICENSE).
