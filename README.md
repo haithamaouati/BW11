@@ -29,8 +29,6 @@ _bypass windows 11 system requirements._
 ![](https://badgen.net/badge/icon/telegram?icon=telegram&label)
 <a href="t.me/haithamaouati">![telegram](https://badgen.net/badge/t.me/haithamaouati/grey)</a>
 
-___
-
 ## Table of Contents
 
 - [Getting started](#getting-started)
@@ -102,11 +100,10 @@ Internet connection| Microsoft account
 ## Changelog
 
 ```diff
-# Comment
+# Lastest update
 + [Added]
 - [Removed]
 ```
-___
 
 ## Usage
 
@@ -124,7 +121,6 @@ ___
 > **Note**:
 > The "**Unsupported**" screen should no longer ~~appear~~ and you can continue the installation.
 
-___
 
 ## Environments
 
@@ -136,14 +132,10 @@ ___
     * Windows 10
     * Windows 11
 
-___
-
 ## Disclaimer
 
 > **Warning**:
 > We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
-
-___
 
 ## Author
 
@@ -151,8 +143,6 @@ Made with **bugs** and :heart: by **Haitham Aouati**
 
 ![](https://badgen.net/badge/icon/twitter?icon=twitter&label)
 ![twitter](https://badgen.net/twitter/follow/haithamaouati)
-
-___
 
 ## License
 
