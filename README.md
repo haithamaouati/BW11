@@ -38,6 +38,8 @@ _bypass windows 11 system requirements._
   - [ToDo](#todo)
   - [Changelog](#changelog)
 - [Usage](#usage)
+  - [Method one](#method-one)
+  - [Method two](#method-two)
 - [Environments](#environments)
 - [Disclaimer](#disclaimer)
 - [Author](#author)
@@ -121,6 +123,8 @@ Internet connection| Microsoft account
 > **Note**:
 > The "**Unsupported**" screen should no longer ~~appear~~ and you can continue the installation.
 
+###### Method two
+The same steps as the first method, except for using the BypassWin11.reg file instead of BypassWin11.bat
 
 ## Environments
 
