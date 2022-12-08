@@ -38,8 +38,6 @@ _bypass windows 11 system requirements._
   - [ToDo](#todo)
   - [Changelog](#changelog)
 - [Usage](#usage)
-  - [Method one](#method-one)
-  - [Method two](#method-two)
 - [Environments](#environments)
 - [Disclaimer](#disclaimer)
 - [Author](#author)
@@ -108,6 +106,9 @@ Internet connection| Microsoft account
 ```
 
 ## Usage
+
+- [Method one](#method-one)
+- [Method two](#method-two)
 
 ###### Method one
 1. Burn [Windows 11](https://www.microsoft.com/en-us/windows/) iso :cd: on USB drive using [Rufus](https://rufus.ie/en/) tool.
