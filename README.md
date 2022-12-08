@@ -63,10 +63,10 @@ Here are some frequently asked questions. If you have a different question, plea
 
 1. **Q:** What is it?
 
-   **A:** It's Windows 11 system requirements bypasser.
+   **A:** It's A tool to bypass the minimum requirements to run Windows 11
 2. **Q:** Why?
 
-   **A:** Because some people can't upgrade they hardware.
+   **A:** Because some users can't upgrade their computer hardware.
 3. **Q:** How to use it?
 
    **A:** By following the instructions [Usage](#usage)
