@@ -123,8 +123,13 @@ Internet connection| Microsoft account
 > The "**Unsupported**" screen should no longer ~~appear~~ and you can continue the installation.
 
 ###### Method Two
-Steps **1** through **7** are the same as the [Method One](#method-one), but the other two steps are different as **BypassWin11.reg** is used instead of **BypassWin11.bat**
+Steps **1** through **7** are the same as the [Method One](#method-one), Step 8 is different as **BypassWin11.reg** is used instead of **BypassWin11.bat**
 
+8. Right-click on the **BypassWin11.reg** file and click on the **Merge** item, then **Yes** option.
+9. Go back to previous back and then go to the next page to proceed.
+
+> **Note**:
+> The "**Unsupported**" screen should no longer ~~appear~~ and you can continue the installation.
 
 ## Environments
 
