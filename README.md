@@ -110,7 +110,7 @@ Internet connection| Microsoft account
 
 ###### Method One
 1. Burn [Windows 11](https://www.microsoft.com/en-us/windows/) iso :cd: on USB drive using [Rufus](https://rufus.ie/en/) tool.
-2. Copy **BypassWin11.bat** to USB drive.
+2. Copy **BypassWin11** to USB drive.
 3. Open the Command prompt (CMD) by pressing `Shift + F10` when this message _"This PC can't run Windows 11"_ appears.
 4. Open the Notepad by typing `notepad` in CMD.
 5. Click on the **Open** item from the **File** menu.
@@ -123,7 +123,8 @@ Internet connection| Microsoft account
 > The "**Unsupported**" screen should no longer ~~appear~~ and you can continue the installation.
 
 ###### Method Two
-The same steps as the [Method One](#method-one), except for using the BypassWin11.reg file instead of BypassWin11.bat
+Steps **1** through **7** are the same as the [Method One](#method-one), but the other two steps are different as **BypassWin11.reg** is used instead of **BypassWin11.bat**
+
 
 ## Environments
 
