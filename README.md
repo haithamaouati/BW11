@@ -53,6 +53,7 @@ Want to learn more about BypassWin11? Check this [README.md](https://github.com/
 
 MD5 hash:
 ```
+2325fb7ee2d182f904f121f5112b64a1
 ```
 
 <a href="https://github.com/haithamaouati/BypassWin11/archive/refs/heads/main.zip">![download](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white)</a>
@@ -107,10 +108,7 @@ Internet connection| Microsoft account
 
 ## Usage
 
-- [Method one](#method-one)
-- [Method two](#method-two)
-
-###### Method one
+###### Method One
 1. Burn [Windows 11](https://www.microsoft.com/en-us/windows/) iso :cd: on USB drive using [Rufus](https://rufus.ie/en/) tool.
 2. Copy **BypassWin11.bat** to USB drive.
 3. Open the Command prompt (CMD) by pressing `Shift + F10` when this message _"This PC can't run Windows 11"_ appears.
@@ -124,8 +122,8 @@ Internet connection| Microsoft account
 > **Note**:
 > The "**Unsupported**" screen should no longer ~~appear~~ and you can continue the installation.
 
-###### Method two
-The same steps as the first method, except for using the BypassWin11.reg file instead of BypassWin11.bat
+###### Method Two
+The same steps as the [Method One](#method-one), except for using the BypassWin11.reg file instead of BypassWin11.bat
 
 ## Environments
 
