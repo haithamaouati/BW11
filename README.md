@@ -148,7 +148,7 @@ Steps **1** through **7** are the same as the [Method One](#method-one), Step 8 
 
 ## Author
 
-Made with **bugs** and :heart: by **Haitham Aouati**
+Made with :heart: by **Haitham Aouati**
 
 ![](https://badgen.net/badge/icon/twitter?icon=twitter&label)
 ![twitter](https://badgen.net/twitter/follow/haithamaouati)
