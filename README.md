@@ -35,7 +35,6 @@ _bypass windows 11 system requirements._
   - [Download](#download)
   - [FAQ](#faq)
 - [Features](#features)
-  - [ToDo](#todo)
   - [Changelog](#changelog)
 - [Usage](#usage)
 - [Environments](#environments)
@@ -93,9 +92,6 @@ Internet connection| Microsoft account
 - [x] Bypass TPM Check
 - [x] Bypass SecureBoot Check
 - [x] Allow Upgrade With Unsupported TPM or CPU
-
-## ToDo
-
 - [ ] Bypass Internet connection and Microsoft account
 
 ## Changelog
