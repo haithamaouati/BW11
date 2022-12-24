@@ -11,7 +11,7 @@
       ##########  ##########
       ##########  ##########
 
-         BypassWin11 v1.0
+         BypassWin11 v1.5
 ```
 
 ___
@@ -33,13 +33,9 @@ _bypass windows 11 system requirements._
 
 - [Getting started](#getting-started)
   - [Download](#download)
-  - [FAQ](#faq)
 - [Features](#features)
-  - [Changelog](#changelog)
 - [Usage](#usage)
-- [Environments](#environments)
 - [Disclaimer](#disclaimer)
-- [Author](#author)
 - [License](#license)
 
 ([Table of Contents](#table-of-contents))
@@ -56,20 +52,6 @@ MD5 hash:
 ```
 
 <a href="https://github.com/haithamaouati/BypassWin11/archive/refs/heads/main.zip">![download](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white)</a>
-
-## FAQ
-
-Here are some frequently asked questions. If you have a different question, please ask using [Discussions](https://github.com/haithamaouati/BypassWin11/discussions).
-
-1. **Q:** What is it?
-
-   **A:** It's A tool to bypass the minimum requirements to run Windows 11
-2. **Q:** Why?
-
-   **A:** Because some users can't upgrade their computer hardware.
-3. **Q:** How to use it?
-
-   **A:** By following the instructions [Usage](#usage)
 
 ## Features
 
@@ -93,14 +75,6 @@ Internet connection| Microsoft account
 - [x] Bypass SecureBoot Check
 - [x] Allow Upgrade With Unsupported TPM or CPU
 - [ ] Bypass Internet connection and Microsoft account
-
-## Changelog
-
-```diff
-# Lastest update: 24/12/2022
-+ [Added]
-- [Removed]
-```
 
 ## Usage
 
@@ -127,27 +101,10 @@ Steps **1** through **7** are the same as the [Method One](#method-one), Step 8 
 > **Note**:
 > The "**Unsupported**" screen should no longer ~~appear~~ and you can continue the installation.
 
-## Environments
-
-![windows](https://badgen.net/badge/icon/windows?icon=windows&label)
-
-* Windows
-    * Windows 8
-      * Windows 8.1
-    * Windows 10
-    * Windows 11
-
 ## Disclaimer
 
 > **Warning**:
 > We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
-
-## Author
-
-Made with :heart: by **Haitham Aouati**
-
-![](https://badgen.net/badge/icon/twitter?icon=twitter&label)
-![twitter](https://badgen.net/twitter/follow/haithamaouati)
 
 ### Show your support
 Give a :star: if you like this project!
