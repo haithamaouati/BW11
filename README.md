@@ -33,7 +33,7 @@ _bypass windows 11 system requirements._
 
 - [Getting started](#getting-started)
   - [Download](#download)
-- [Features](#features)
+- [Bypassing](#bypassing)
 - [Usage](#usage)
 - [Disclaimer](#disclaimer)
 - [License](#license)
@@ -53,9 +53,9 @@ MD5 hash:
 
 <a href="https://github.com/haithamaouati/BypassWin11/archive/refs/heads/main.zip">![download](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white)</a>
 
-## Features
+## Bypassing
 
-###### Requirements
+###### Minimum Requirements
 
 Hardware | Minimum
 --- | ---
@@ -86,16 +86,16 @@ Internet connection| Microsoft account
 5. Click on the **Open** item from the **File** menu.
 6. Go to the USB drive using the **Files Explorer** of the Notepad.
 7. Select **All Files** as the file type to show all files on USB drive.
-8. Right-click on the **BypassWin11.bat** file and click on the **Open** or **Rus as administrator** item, then press `Enter`.
+8. Right-click on the `BypassWin11.bat` file and click on the **Open** or **Rus as administrator** item, then press `Enter`.
 9. Go back to previous back and then go to the next page to proceed.
 
 > **Note**:
 > The "**Unsupported**" screen should no longer ~~appear~~ and you can continue the installation.
 
 ###### Method Two
-Steps **1** through **7** are the same as the [Method One](#method-one), Step 8 is different as **BypassWin11.reg** is used instead of **BypassWin11.bat**
+Steps **1** through **7** are the same as the [Method One](#method-one), Step 8 is different as `BypassWin11.reg` is used instead of `BypassWin11.bat`
 
-8. Right-click on the **BypassWin11.reg** file and click on the **Merge** item, then **Yes** option.
+8. Right-click on the `BypassWin11.reg` file and click on the **Merge** item, then **Yes** option.
 9. Go back to previous back and then go to the next page to proceed.
 
 > **Note**:
