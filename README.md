@@ -97,7 +97,7 @@ Internet connection| Microsoft account
 ## Changelog
 
 ```diff
-# Lastest update
+# Lastest update: 24/12/2022
 + [Added]
 - [Removed]
 ```
