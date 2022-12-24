@@ -18,6 +18,7 @@ if %errorlevel% == 0 (
 )
 
 :main_menu
+cls
 echo.
 echo  ##########  ##########
 echo  ##########  ##########
@@ -71,3 +72,5 @@ echo Are you sure you want to exit the script? (y/n)
 set /p confirm=
 if /i "%confirm%"=="y" exit
 if /i "%confirm%"=="n" goto main_menu
+
+goto end
