@@ -3,6 +3,9 @@ title BypassWin11
 mode 80,25
 color 07
 
+REM Author: Haitham Aouati
+REM GitHub: https://github.com/haithamaouati/BypassWin11
+
 cls
 
 net session >nul 2>&1
