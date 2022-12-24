@@ -41,6 +41,9 @@ set /p choice=Enter your choice:
 if "%choice%"=="1" goto bypass
 if "%choice%"=="2" goto end
 
+echo Invalid choice. Please try again.
+goto main_menu
+
 :bypass
 echo This section allows you to bypass various checks.
 echo 1. Bypass CPU Check
