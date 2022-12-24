@@ -33,7 +33,7 @@ echo  ##########  ##########
 echo.
 echo Main menu:
 echo 1. Bypass
-echo 2. End
+echo 2. Exit
 echo.
 
 set /p choice=Enter your choice: 
