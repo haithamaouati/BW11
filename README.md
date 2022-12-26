@@ -26,13 +26,11 @@ ___
 _bypass windows 11 system requirements._
 
 ![github](https://badgen.net/badge/icon/github?icon=github&label)
-![](https://badgen.net/badge/icon/telegram?icon=telegram&label)
-<a href="t.me/haithamaouati">![telegram](https://badgen.net/badge/t.me/haithamaouati/grey)</a>
+![telegram](https://badgen.net/badge/icon/telegram?icon=telegram&label)
 
 ## Table of Contents
 
-- [Getting started](#getting-started)
-  - [Download](#download)
+- [Download](#download)
 - [Bypassing](#bypassing)
 - [Usage](#usage)
 - [Disclaimer](#disclaimer)
@@ -40,16 +38,9 @@ _bypass windows 11 system requirements._
 
 ([Table of Contents](#table-of-contents))
 
-## Getting started
-
-Want to learn more about BypassWin11? Check this [README.md](https://github.com/haithamaouati/BypassWin11/blob/main/README.md)
-
 ## Download
 
-MD5 hash:
-```
-2325fb7ee2d182f904f121f5112b64a1
-```
+BypassWin11 v1.5
 
 <a href="https://github.com/haithamaouati/BypassWin11/archive/refs/heads/main.zip">![download](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white)</a>
 
