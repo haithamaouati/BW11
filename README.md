@@ -23,7 +23,6 @@ ___
 **BW11** — Bypass windows 11 system requirements.
 
 ## Table of Contents
-- [Download](#download)
 - [Bypass](#bypass)
 - [Usage](#usage)
 - [Disclaimer](#disclaimer)
@@ -31,13 +30,8 @@ ___
 
 ([Table of Contents](#table-of-contents))
 
-## Download
-Download **BW11** v1.5
-
-<a href="https://github.com/haithamaouati/BW11/archive/refs/heads/main.zip">![download](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white)</a>
-
 ## Bypass
-Requirements | Minimum
+Hardware | Minimum
 --- | ---
 Processor | 1 GHz
 RAM | 4 GB
@@ -46,6 +40,7 @@ System firmware | UEFI, Secure Boot
 TPM | 2.0
 Internet connection| Microsoft account
 
+###### Requirements
 - [x] Bypass CPU Check
 - [x] Bypass Storage Check
 - [x] Bypass RAM Check
