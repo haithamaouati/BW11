@@ -1,10 +1,10 @@
 @echo off
-title BypassWin11
+title BW11
 mode 80,25
 color 07
 
 REM Author: Haitham Aouati
-REM GitHub: https://github.com/haithamaouati/BypassWin11
+REM GitHub: https://github.com/haithamaouati
 
 cls
 
