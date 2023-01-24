@@ -79,7 +79,5 @@ Steps **1** through **7** are the same as the [Method One](#method-one), Step 8 
 > **Warning**:
 > We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
 
-([Table of Contents](#table-of-contents))
-
 ## License
-This repository is under [Unlicense License](https://github.com/haithamaouati/BypassTPMCheck-SecureBoot/blob/main/LICENSE).
+This repository is under [Unlicense License](https://github.com/haithamaouati/BW11/blob/main/LICENSE).
