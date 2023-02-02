@@ -20,7 +20,7 @@
 ___
 
 # BW11
-**BW11** — Bypass windows 11 system requirements.
+**BW11** — Bypass Windows 11 System Requirements.
 
 ## Table of Contents
 - [Bypass](#bypass)
