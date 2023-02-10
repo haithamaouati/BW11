@@ -70,6 +70,15 @@ Steps **1** through **7** are the same as the [First Method](#first-method), Ste
 8. Right-click on the `BW11.reg` file and click on the `Merge` from ContextMenu, then `Yes` button.
 9. Go back to the previous stage.
 
+**Flowchart**
+
+```mermaid
+flowchart LR;
+P{PC}-->I((ISO))-->|Burn|U[USB];
+P-->B(BW11)-->|Copy|U;
+U-->P;
+```
+
 ## Disclaimer
 > **Warning**:
 > We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
