@@ -50,24 +50,24 @@ Internet connection| Microsoft account
 - [ ] Bypass Internet connection and Microsoft account
 
 ## Usage
-###### Method One
+###### First Method
 1. Burn the [Windows 11]() .iso :cd: file to a USB flash drive using [Rufus]() tool.
-2. Copy BW11 to the USB flash drive.
-3. During the installation phase of Windows 11 and when this message _“This PC can't run Windows 11”_ appears, run the Command Prompt (CMD) by pressing `Shift + F10` keys.
-4. Run Notepad by typing `notepad` in CMD.
-5. Click on Open from the File option in the toolbar.
+2. Copy `BW11.bat` to the USB flash drive.
+3. During the installation phase of Windows 11 and when this message _“This PC can't run Windows 11”_ appears, run the Command Prompt by pressing `Shift + F10` keys.
+4. Run the Notepad by typing `notepad` in CMD.
+5. Click on `Open` from the `File` option in the toolbar.
 6. Go to the USB flash drive using the Files Explorer of the Notepad.
-7. Select All Files as the file type to show all files on USB dlash drive.
-8. Right-click on the `BW11.bat` file and click on `Rus as administrator` item, then press `Enter`.
-9. Go back to previous back and then go to the next page to proceed.
+7. Select All Files as the file type to show all files on USB flash drive.
+8. Right-click on `BW11.bat` file and click on `Run as administrator` from ContextMenu.
+9. Go back to the previous stage.
 
 > **Note**:
 > The "**Unsupported**" screen should no longer ~~appear~~ and you can continue the installation.
 
-###### Method Two
-Steps **1** through **7** are the same as the [Method One](#method-one), Step 8 is different as `BW11.reg` is used instead of `BW11.bat`
+###### Second Method
+Steps **1** through **7** are the same as the [First Method](#first-method), Step 8 is different as `BW11.reg` is used instead of `BW11.bat`
 
-8. Right-click on the `BW11.reg` file and click on the **Merge** item, then **Yes** option.
+8. Right-click on the `BW11.reg` file and click on the `Merge` from ContextMenu, then `Yes` button.
 9. Go back to previous back and then go to the next page to proceed.
 
 ## Disclaimer
