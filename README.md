@@ -62,13 +62,13 @@ Internet connection| Microsoft account
 9. Go back to the previous stage.
 
 > **Note**:
-> The "**Unsupported**" screen should no longer ~~appear~~ and you can continue the installation.
+> The "Unsupported" screen should no longer ~~appear~~ and you can continue the installation.
 
 ###### Second Method
 Steps **1** through **7** are the same as the [First Method](#first-method), Step 8 is different as `BW11.reg` is used instead of `BW11.bat`
 
 8. Right-click on the `BW11.reg` file and click on the `Merge` from ContextMenu, then `Yes` button.
-9. Go back to previous back and then go to the next page to proceed.
+9. Go back to the previous stage.
 
 ## Disclaimer
 > **Warning**:
