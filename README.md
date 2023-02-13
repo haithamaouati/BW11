@@ -76,7 +76,7 @@ Steps **1** through **7** are the same as the [First Method](#first-method), Ste
 flowchart LR;
 P{PC}-->I((ISO))-->|Burn|U[USB];
 P-->B(BW11)-->|Copy|U;
-U-->P;
+U-->|Bypass|P;
 ```
 
 ## Disclaimer
