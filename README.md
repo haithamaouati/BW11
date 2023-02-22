@@ -79,6 +79,14 @@ P-->B(BW11)-->|Copy|U;
 U-->|Bypass|P;
 ```
 
+## Languages
+```mermaid
+pie
+    title Languages
+    "Batchfile" : 60
+    "Registry" : 40
+```
+
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=haithamaouati/BW11&type=Date)](https://star-history.com/#haithamaouati/BW11&Date)
 
