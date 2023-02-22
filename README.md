@@ -70,7 +70,7 @@ Steps **1** through **7** are the same as the [First Method](#first-method), Ste
 8. Right-click on the `BW11.reg` file and click on the `Merge` from ContextMenu, then `Yes` button.
 9. Go back to the previous stage.
 
-**Flowchart**
+## Flowchart
 
 ```mermaid
 flowchart LR;
@@ -78,6 +78,9 @@ P{PC}-->I((ISO))-->|Burn|U[USB];
 P-->B(BW11)-->|Copy|U;
 U-->|Bypass|P;
 ```
+
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=haithamaouati/BW11&type=Date)](https://star-history.com/#haithamaouati/BW11&Date)
 
 ## Disclaimer
 > **Warning**:
