@@ -53,7 +53,7 @@ Internet connection| Microsoft account
 ###### First Method
 1. Burn the [Windows 11]() .iso :cd: on USB flash drive using [Rufus]() tool.
 2. Copy & paste `BW11.bat` to the USB flash drive.
-3. During the installation phase of Windows 11 and when this message _“This PC can't run Windows 11”_ appears, run the Command Prompt by pressing `Shift + F10` keys.
+3. During the installation phase of Windows 11 and when this message _“This PC can't run Windows 11”_ appears, run the CMD by pressing `Shift + F10` keys.
 4. Run the Notepad app by typing `notepad` in CMD.
 5. Click on `Open` from the `File` option in the toolbar.
 6. Go to the USB flash drive using the Files Explorer of the Notepad.
