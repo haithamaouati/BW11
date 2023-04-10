@@ -51,10 +51,10 @@ Internet connection| Microsoft account
 
 ## Usage
 ###### First Method
-1. Burn the [Windows 11]() .iso :cd: file to a USB flash drive using [Rufus]() tool.
-2. Copy `BW11.bat` to the USB flash drive.
+1. Burn the [Windows 11]() .iso :cd: on USB flash drive using [Rufus]() tool.
+2. Copy & paste `BW11.bat` to the USB flash drive.
 3. During the installation phase of Windows 11 and when this message _“This PC can't run Windows 11”_ appears, run the Command Prompt by pressing `Shift + F10` keys.
-4. Run the Notepad by typing `notepad` in CMD.
+4. Run the Notepad app by typing `notepad` in CMD.
 5. Click on `Open` from the `File` option in the toolbar.
 6. Go to the USB flash drive using the Files Explorer of the Notepad.
 7. Select All Files as the file type to show all files on USB flash drive.
@@ -69,18 +69,6 @@ Steps **1** through **7** are the same as the [First Method](#first-method), Ste
 
 8. Right-click on the `BW11.reg` file and click on the `Merge` from ContextMenu, then `Yes` button.
 9. Go back to the previous stage.
-
-## Flowchart
-
-```mermaid
-flowchart LR;
-P{PC}-->I((ISO))-->|Burn|U[USB];
-P-->B(BW11)-->|Copy|U;
-U-->|Bypass|P;
-```
-
-## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=haithamaouati/BW11&type=Date)](https://star-history.com/#haithamaouati/BW11&Date)
 
 ## Disclaimer
 > **Warning**:
