@@ -5,6 +5,7 @@ color 07
 
 REM Author: Haitham Aouati
 REM GitHub: https://github.com/haithamaouati
+REM Window 11 System Requirements
 
 cls
 
@@ -33,7 +34,7 @@ echo  ##########  ##########
 echo  ##########  ##########
 echo.
 echo Main menu:
-echo 1. Bypass
+echo 1. Bypass Windows 11 System Requirements
 echo 2. Exit
 echo.
 
