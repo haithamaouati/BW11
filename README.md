@@ -44,16 +44,16 @@ Internet connection| Microsoft account
 6. Go to the USB flash drive using the Files Explorer of the Notepad.
 7. Select All Files as the file type to show all files on USB flash drive.
 8. Right-click on `BW11.bat` file and click on `Run as administrator` from ContextMenu.
-9. Go back to the previous stage.
+9. Go back to the previous stage and then go to the next stage to proceed.
 
 > [!NOTE]
-> The "Unsupported" screen should no longer ~~appear~~ and you can continue the installation.
+> You should no longer see the ~Unsupported~ message anymore and you can continue the installation.
 
 ###### Second Method
 Steps **1** through **7** are the same as the [First Method](#first-method), Step 8 is different as `BW11.reg` is used instead of `BW11.bat`
 
 8. Right-click on the `BW11.reg` file and click on the `Merge` from ContextMenu, then `Yes` button.
-9. Go back to the previous stage.
+9. Go back to the previous stage and then go to the next stage to proceed.
 
 ## Disclaimer
 > [!WARNING]
