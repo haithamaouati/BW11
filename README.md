@@ -1,5 +1,5 @@
 # BW11
-Bypass Windows 11 System Requirements.
+Bypass Windows 11 System Requirements
 
 ```
       ##########  ##########
@@ -32,7 +32,7 @@ Internet connection| Microsoft account
 - [x] Bypass TPM Check
 - [x] Bypass SecureBoot Check
 - [x] Allow Upgrade With Unsupported TPM or CPU
-- [ ] Bypass Internet connection and Microsoft account
+- [x] Bypass Internet connection and Microsoft account
 
 ## Usage
 ###### First Method
