@@ -33,6 +33,8 @@ echo  ##########  ##########
 echo  ##########  ##########
 echo  ##########  ##########
 echo.
+echo  BW11 by Haitham Aouati
+echo.
 echo Main menu:
 echo 1. Bypass Windows 11 System Requirements
 echo 2. Exit
