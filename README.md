@@ -46,7 +46,7 @@ Internet connection| Microsoft account
 8. Right-click on `BW11.bat` file and click on `Run as administrator` from ContextMenu.
 9. Go back to the previous stage.
 
-> **Note**:
+> [!NOTE]
 > The "Unsupported" screen should no longer ~~appear~~ and you can continue the installation.
 
 ###### Second Method
@@ -56,7 +56,7 @@ Steps **1** through **7** are the same as the [First Method](#first-method), Ste
 9. Go back to the previous stage.
 
 ## Disclaimer
-> **Warning**:
+> [!WARNING]
 > We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
 
 ## License
