@@ -15,6 +15,8 @@ Bypass Windows 11 System Requirements
       ##########  ##########
 ```
 
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/haithamaouati/BW11/main/screenshot.jpeg)
 ## Hardware requirements
 Hardware | Minimum
 --- | ---
