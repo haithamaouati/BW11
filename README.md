@@ -25,7 +25,7 @@ System firmware | UEFI, Secure Boot
 TPM | 2.0
 Internet connection| Microsoft account
 
-# Bypassed requirements
+## Bypassed requirements
 - [x] Bypass CPU Check
 - [x] Bypass Storage Check
 - [x] Bypass RAM Check
