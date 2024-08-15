@@ -1,36 +1,21 @@
-![watchers](https://custom-icon-badges.demolab.com/github/watchers/haithamaouati/BW11?logo=eye)
-![stars](https://custom-icon-badges.demolab.com/github/stars/haithamaouati/BW11?logo=star)
-![forks](https://custom-icon-badges.demolab.com/github/forks/haithamaouati/BW11?logo=repo-forked)
-![license](https://custom-icon-badges.demolab.com/github/license/haithamaouati/BW11?logo=law)
-
-```
-      ##########  ##########
-      ##########  ##########
-      ##########  ##########
-      ##########  ##########
-      ##########  ##########
-
-      ##########  ##########
-      ##########  ##########
-      ##########  ##########
-      ##########  ##########
-      ##########  ##########
-```
-
-___
-
 # BW11
-**BW11** — Bypass Windows 11 System Requirements.
+Bypass Windows 11 System Requirements.
 
-## Table of Contents
-- [Bypass](#bypass)
-- [Usage](#usage)
-- [Disclaimer](#disclaimer)
-- [License](#license)
+```
+      ##########  ##########
+      ##########  ##########
+      ##########  ##########
+      ##########  ##########
+      ##########  ##########
 
-([Table of Contents](#table-of-contents))
+      ##########  ##########
+      ##########  ##########
+      ##########  ##########
+      ##########  ##########
+      ##########  ##########
+```
 
-## Bypass
+## Hardware requirements
 Hardware | Minimum
 --- | ---
 Processor | 1 GHz
@@ -40,7 +25,7 @@ System firmware | UEFI, Secure Boot
 TPM | 2.0
 Internet connection| Microsoft account
 
-###### Requirements
+# Bypassed requirements
 - [x] Bypass CPU Check
 - [x] Bypass Storage Check
 - [x] Bypass RAM Check
