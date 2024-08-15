@@ -54,6 +54,7 @@ echo 3. Bypass RAM Check
 echo 4. Bypass TPM Check
 echo 5. Bypass SecureBoot Check
 echo 6. Allow Upgrade With Unsupported TPM or CPU
+echo 7. Bypass Internet connection and Microsoft account
 echo.
 
 echo Adding keys to bypass various checks...
@@ -63,8 +64,13 @@ REG ADD HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig /v BypassRAMCheck /f /t REG_DW
 REG ADD HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig /v BypassTPMCheck /f /t REG_DWORD /d 00000001
 REG ADD HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig /v BypassSecureBootCheck /f /t REG_DWORD /d 00000001
 REG ADD HKEY_LOCAL_MACHINE\SYSTEM\Setup\MoSetup /v AllowUpgradesWithUnsupportedTPMOrCPU /f /t REG_DWORD /d 00000001
+REG ADD HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig /v BypassNRO /f /t REG_DWORD /d 00000001
+REG ADD HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig /v OOBEBypassNRO /f /t REG_DWORD /d 00000001
+REG ADD HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig /v BypassMSARequirement /f /t REG_DWORD /d 00000001
 
 echo Keys added successfully.
+
+echo Requirements bypassed successfully.
 pause
 goto main_menu
 
