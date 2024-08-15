@@ -69,8 +69,10 @@ REG ADD HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig /v OOBEBypassNRO /f /t REG_DWO
 REG ADD HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig /v BypassMSARequirement /f /t REG_DWORD /d 00000001
 
 echo Keys added successfully.
-
 echo Requirements bypassed successfully.
+echo.
+echo Now go back to previous stage and then go to the next stage to proceed.
+echo You should no longer see the "Unsupported" message anymore.
 pause
 goto main_menu
 
