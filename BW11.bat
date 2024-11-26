@@ -5,7 +5,7 @@ color 07
 
 REM Author: Haitham Aouati
 REM GitHub: https://github.com/haithamaouati
-REM Window 11 System Requirements
+REM Bypass Window 11 system requirements
 
 cls
 
@@ -36,8 +36,8 @@ echo.
 echo  BW11 by Haitham Aouati
 echo.
 echo Main menu:
-echo 1. Bypass Windows 11 System Requirements
-echo 2. Exit
+echo 1. Bypass Windows 11 system requirements
+echo 2. Exit the program
 echo.
 
 set /p choice=Enter your choice: 
