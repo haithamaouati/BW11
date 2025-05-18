@@ -64,4 +64,4 @@ Steps **1** through **7** are the same as the [First Method](#first-method), Ste
 > We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
 
 ## License
-This repository is under [WTFPL license](https://github.com/haithamaouati/BW11/blob/main/LICENSE).
+This repository is under [GLWTS license](LICENSE).
