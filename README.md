@@ -1,6 +1,8 @@
 # BW11
 Bypass Windows 11 system requirements
 
+[![Made in Algeria](https://www.madeinalgeria.dev/badge/bw11.svg)](https://www.madeinalgeria.dev/projects/bw11)
+
 ```
       ##########  ##########
       ##########  ##########
